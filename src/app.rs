@@ -11,7 +11,9 @@ const CHAVE_MELHOR: &str = "quiz.melhor_pontuacao";
 const PROVAS_DISPONIVEIS: &[(&str, &str)] = &[
     ("fatec_2026", "FATEC 2026"),
     ("fatec_2025/semestre-2", "FATEC 2025 - 2º Semestre"),
-    ("fatec_2024", "FATEC 2024"),
+    ("fatec_2025/semestre-1", "FATEC 2025 - 1º Semestre"),
+    ("fatec_2024/semestre-2", "FATEC 2024 - 2º Semestre"),
+    ("fatec_2024/semestre-1", "FATEC 2024 - 1º Semestre"),
 ];
 
 #[derive(Clone)]

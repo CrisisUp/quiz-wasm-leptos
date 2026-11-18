@@ -1,0 +1,822 @@
+[
+  {
+    "id": 1,
+    "pergunta": "OS CAMINHOS DO SER HUMANO PARA A AMÉRICA\n\nOCEANO GLACIAL ÁRTICO\nOCEANO GLACIAL ÁRTICO\n\ng\n\nn\n\nri\n\ne\n\nB\n\ne\n\nSIBÉRIA\nSIBÉRIA\n\nd\n\no \n\nALASCA\nALASCA\n\nit\n\ne\n\ntr\n\ns\n\nE\n\nOCEANO \nPACÍFICO\nOCEANO \nATLÂNTICO\n\nOCEANO \nPACÍFICO\n\nOCEANO \nATLÂNTICO\n\nDESERTO\nDESERTO\nDO SAARA\nDO SAARA\n\nFILIPINAS\nFILIPINAS\n\nNOVA GUINÉ\nNOVA GUINÉ\n\nN\n\nPOLINÉSIA\nPOLINÉSIA\n\nÍNDICO\nOCEANO \n\nOCEANO \n\nÍNDICO\n\n3020 km\n\nProváveis rotas do ser humano para a América\n\nFonte dos dados: \n\nA leitura do mapa permite concluir, corretamente, que",
+    "imagens": [
+      "imagens/pag2_q1_img1.png"
+    ],
+    "alternativas": [
+      "A) os povoadores da América do Norte tiveram sua origem na Oceania, passaram pela Polinésia e seguiram viagem por mar, utilizando embarcações primitivas.",
+      "B) os primeiros povoadores da América partiram de um ponto de origem comum e realizaram diferentes rotas em direção aos territórios da atual América Latina.",
+      "C) a rota dos primeiros habitantes da América se originou na Europa e, desse continente, rumou para a Ásia, de onde foi possível finalizar a travessia por terra.",
+      "D) os territórios da atual América Latina foram tanto destino quanto origem de parte dos fluxos migratórios pré-históricos.",
+      "E) a impossibilidade de realizar os percursos por terra forçou o desenvolvimento de viagens marítimas como única forma de alcançar o Continente Americano."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 2,
+    "pergunta": "Assinale a alternativa em que é apresentado um país da América Latina cujo nome tem o maior número de \nanagramas.",
+    "imagens": [],
+    "alternativas": [
+      "A) Canadá",
+      "B) Guiana",
+      "C) Jamaica",
+      "D) México",
+      "E) Panamá"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 3,
+    "pergunta": "Considere os conjuntos:\n\n• X = {x | x é um país da América Latina};\n\n• Y = {y | y é um país cujo idioma oficial não é o espanhol}.\n\nSe um país pertence ao conjunto C = Y – X, então, geograficamente, esse país",
+    "imagens": [],
+    "alternativas": [
+      "A) não existe, uma vez que o conjunto C é vazio.",
+      "B) está localizado na América Latina e o idioma oficial é o espanhol.",
+      "C) não está localizado na América Latina e o idioma oficial é o espanhol.",
+      "D) está localizado na América Latina e o idioma oficial não é o espanhol.",
+      "E) não está localizado na América Latina e o idioma oficial não é o espanhol."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 4,
+    "pergunta": "A América Latina é uma região rica em biodiversidade, abrigando uma grande variedade de espécies de \nmamíferos, como as capivaras (Hydrochoerus hydrochaeris), maiores roedores vivos do mundo.\nEntre as características que pertencem exclusivamente a classe dos animais citados no texto, destaca-se \ncorretamente a presença de",
+    "imagens": [],
+    "alternativas": [
+      "A) escamas, coração com quatro cavidades e ectotermia.",
+      "B) escamas, coração com três cavidades e diafragma.",
+      "C) pelos, coração com três cavidades e diafragma.",
+      "D) pelos, glândulas mamárias e ectotermia.",
+      "E) pelos, glândulas mamárias e diafragma."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 5,
+    "pergunta": "Colônia espanhola até o final do século XIX, o país conquistou a independência em 1898, com a intervenção dos \nEstados Unidos, país do qual passou a ser praticamente um quintal. A influência de empresas estadunidenses \nali cresceu consideravelmente ao longo do século XX. A ascensão de Fulgêncio Batista ao poder e a instalação \nde uma ditadura, que perseguiu opositores e implantou a censura para atender aos interesses estadunidenses, \nforam responsáveis por iniciar um movimento revolucionário de oposição.\n\nO texto faz referência à",
+    "imagens": [],
+    "alternativas": [
+      "A) Independência do Haiti.",
+      "B) Revolta de Demerara.",
+      "C) Revolução Francesa.",
+      "D) Revolução Cubana.",
+      "E) Revolução Russa."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 6,
+    "pergunta": "Segundo o texto, é possível afirmar corretamente que a mencionada obra de engenharia atingiu seu propósito por \nmeio de construções de eclusas e comportas, que se baseiam",
+    "imagens": [],
+    "alternativas": [
+      "A) no princípio de Pascal e no conceito da termodinâmica.",
+      "B) no princípio da Inércia e no conceito de força da gravidade.",
+      "C) no princípio de Arquimedes e no conceito de vasos comunicantes.",
+      "D) no princípio da Conservação da Energia e no conceito de momento linear.",
+      "E) no princípio da Reversibilidade da Luz e no conceito de decomposição luminosa."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 7,
+    "pergunta": "Com base no texto, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) a independência colombiana ocorreu em função da pressão estadunidense sobre o Panamá, que não aceitava a construção do Canal na América do Sul.",
+      "B) a França transferiu a administração do Canal do Panamá para os Estados Unidos em 1999, uma vez que este país assumiu a construção das eclusas, parte mais onerosa que compõe a obra.",
+      "C) a diferença de nível entre os oceanos Atlântico e Pacífico foi resolvida com a construção de eclusas no oceano Índico, com o intuito de permitir uma travessia sem sobressaltos do Canal do Panamá.",
+      "D) a construção do Canal do Panamá permitiu que os navios evitassem a rota do Cabo Horn, situado no extremo norte do Canadá, uma região de difícil navegação em função da existência de correntes marítimas frias.",
+      "E) a utilização do Canal do Panamá reduz a distância percorrida por um navio, que parte do Leste dos Estados Unidos para o Oeste deste mesmo país, em comparação a um navio que faz a mesma ligação,  porém contornando o extremo sul do continente americano."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 8,
+    "pergunta": "Antes da construção do canal, um navio cargueiro, que fosse do ponto Atlântico do Canal do Panamá até o ponto \nPacífico desse canal, precisaria passar pelo Cabo Horn, conforme descrito no texto. \nSuponha que esse navio conseguisse percorrer o trecho, citado no parágrafo anterior, navegando, sem paradas \nou intercorrências, a uma velocidade média de cruzeiro de aproximadamente 20 nós.\nAdotando 1 nó como 1,9 km/h, é correto afirmar que o navio faria essa viagem, aproximadamente, em",
+    "imagens": [],
+    "alternativas": [
+      "A) 10 horas.",
+      "B) 20 horas.",
+      "C) 50 horas.",
+      "D) 20 dias.",
+      "E) 10 dias."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 9,
+    "pergunta": "Se considerarmos apenas os países dessa lista que fazem parte da América do Sul, podemos calcular a média \naritmética referente à projeção do crescimento percentual desses países para o ano de 2024.\n\nAssinale, dentre as alternativas apresentadas, aquela na qual há um país da América do Sul cujo crescimento do \nPIB, em 2024, é mais próximo de M.",
+    "imagens": [],
+    "alternativas": [
+      "A) Costa Rica",
+      "B) El Salvador",
+      "C) Jamaica",
+      "D) Peru",
+      "E) Uruguai"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 10,
+    "pergunta": "Considere que o PIB da Venezuela, no ano de 2022, foi estimado em cerca de US$ 196 bilhões. Então, de acordo \ncom as previsões da CEPAL, a projeção para o ano de 2024, em bilhões, deve ser próxima de",
+    "imagens": [],
+    "alternativas": [
+      "A) US$ 209,96.",
+      "B) US$ 209,57.",
+      "C) US$ 205,67.",
+      "D) US$ 202,86.",
+      "E) US$ 196,70."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 11,
+    "pergunta": "A partir dos dados apresentados no quadro, o país que teve a maior variação percentual no crescimento do PIB, \nde 2023 a 2024, foi",
+    "imagens": [],
+    "alternativas": [
+      "A) Panamá, localizado na América Central.",
+      "B) Argentina, localizado na América do Sul.",
+      "C) México, localizado na América do Norte.",
+      "D) Brasil, localizado na América do Sul.",
+      "E) Haiti, localizado na América Central."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 12,
+    "pergunta": "O termo “república de bananas” foi cunhado pelo escritor estadunidense William Sydney Porter, no conto \nO Almirante, de 1904. A história do conto se passa na Anchuria, país fictício descrito pelo autor como “uma \npequena república de bananas”. Acredita-se, porém, que Porter tenha se inspirado em Honduras, onde morava \nquando escreveu a história.\nAté o fim do século XIX e começo do século XX, algumas empresas estadunidenses começaram a \nfazer plantações de bananas em série e criaram enclaves modernos em repúblicas da América Central. \nAs \"repúblicas de bananas\" eram literalmente os países produtores de bananas e, com isso, dependentes da \nrenda de empresas estadunidenses. \nO termo acabou ganhando um significado mais amplo ao migrar para os estudos políticos. \nA expressão passou a fazer referência a países marcados pela monocultura, dotados de instituições \ngovernamentais fracas e corruptas, onde uma ou várias empresas estrangeiras têm o poder de influir nas \ndecisões nacionais.\nO que chama a atenção é que os anglo-saxões não aplicam a expressão a países que estejam fora da \nAmérica Latina.\n\n Adaptado.\n\nDe acordo com o texto, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) Honduras exemplifica a expressão “república de bananas” por ser o maior produtor e exportador asiático de bananas, posição assumida desde o final do século XIX.",
+      "B) a expressão “repúblicas de bananas” refere-se a países latino-americanos monocultores, cuja vida política e econômica sofriam ingerência de empresas estrangeiras.",
+      "C) William Sydney Porter, presidente dos Estados Unidos no início do século XX, batizou os países da América Central de “república de bananas” para caracterizar o principal produto de exportação desses países.",
+      "D) os anglo-saxões criaram a denominação “república de bananas” para designar países que não são latino-americanos, que são exportadores de bananas e que sofrem com o imperialismo estadunidense.",
+      "E) países africanos, governados por empresas estadunidenses, são os principais produtores mundiais de frutas tropicais, pois utilizam tecnologias agrícolas avançadas e, por isso, são chamados de “república de bananas”."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 13,
+    "pergunta": "A partir da leitura do texto, infere-se que, na América Latina,",
+    "imagens": [],
+    "alternativas": [
+      "A) a mediocridade política impedirá o crescimento econômico.",
+      "B) o crescimento negativo será agravado pelo cenário geopolítico.",
+      "C) os desafios macroeconômicos contribuirão para um enorme pessimismo.",
+      "D) há um certo otimismo diante de um crescimento econômico melhor do que o esperado.",
+      "E) há uma onda bastante otimista indicando crescimento econômico acima da média mundial."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 14,
+    "pergunta": "A palavra Despite, no texto, é usada para",
+    "imagens": [],
+    "alternativas": [
+      "A) retomar as causas dos problemas apresentados.",
+      "B) apresentar informações contrastantes.",
+      "C) introduzir exemplos de uma tese.",
+      "D) suprimir o tom negativo do texto.",
+      "E) marcar as consequências de um temor."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 15,
+    "pergunta": "Assinale a alternativa que contém o nome correto da mudança de estado físico, ocorrida com o dióxido de carbono, \nno processo indicado em (I).",
+    "imagens": [],
+    "alternativas": [
+      "A) Condensação",
+      "B) Vaporização",
+      "C) Sublimação",
+      "D) Fusão",
+      "E) Ebulição"
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 16,
+    "pergunta": "Considerando a equação química (II), que representa a reação de produção de metanol, os valores de x e y, \nque tornam a equação corretamente balanceada, são, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      "A) 1 e 1.",
+      "B) 1 e 2.",
+      "C) 1 e 3.",
+      "D) 2 e 1.",
+      "E) 2 e 3."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 17,
+    "pergunta": "Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade \nde carbono emitido na atmosfera na forma de gases, como CO e CO2.\nPodemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono, \njá que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja",
+    "imagens": [],
+    "alternativas": [
+      "A) combustão libera água para a atmosfera.",
+      "B) combustão produz carbono e gás hidrogênio.",
+      "C) combustão não libera energia.",
+      "D) produção reaproveita o carbono gerado no processo.",
+      "E) produção gera metanol, composto não tóxico."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 18,
+    "pergunta": "O combustível sintético emite, em sua queima, apenas 10 % da quantidade de CO2 emitida na combustão de \ncombustíveis fósseis. \nEsta equação química balanceada representa a queima da gasolina (C8H18) de origem fóssil.\n\nC8H18(g) + 25\n\n2 O2(g) \n 8 CO2(g) + 9 H2O(g)\n\nConsidere que um motor realizou a queima de 114 g de C8H18 (M = 114g/mol) de origem fóssil. \nCaso esse mesmo motor utilizasse gasolina sintética, a massa de CO2 (M = 44g/mol) emitida, em gramas, seria \nde, aproximadamente,",
+    "imagens": [],
+    "alternativas": [
+      "A) 523.",
+      "B) 352.",
+      "C) 207.",
+      "D) 35.",
+      "E) 22."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 19,
+    "pergunta": "A América Latina é apontada pela Organização das Nações Unidas para Agricultura e Alimentação (FAO) \ncomo celeiro do mundo. Contudo, a produção de alimentos vem sendo ameaçada pelas plantas daninhas de \ndifícil controle (PDDC), que são resistentes à aplicação de herbicidas e de defensivos agrícolas, constituindo um \ndos principais problemas à agricultura mundial. As PDDC competem com as culturas agrícolas por nutrientes, \nágua, luz e espaço, podendo também ser hospedeiras de pragas e doenças. \nUma das espécies infestantes mais nocivas à agricultura é o capim-amargoso (Digitaria insularis), que se \ndesenvolve rapidamente por rizomas e sementes, com alta taxa de dispersão. \nNesses casos, o controle biológico realizado com o uso de fungos fitopatógenos, microrganismos que causam \ndoenças em plantas, tem se mostrado muito promissor, pois esses fungos promovem a inibição do crescimento \ndas plantas de capim-amargoso e diminuem, de forma significativa, a produção de suas sementes. \n\n Adaptado.\n\nÉ correto afirmar que o método de controle biológico, citado no texto,",
+    "imagens": [],
+    "alternativas": [
+      "A) colabora para o aumento da quantidade de resíduos tóxicos de defensivos agrícolas nos alimentos cultivados com as espécies infestantes.",
+      "B) permite o desenvolvimento e o aumento da taxa de dispersão das espécies infestantes nocivas à agricultura de soja, milho e trigo.",
+      "C) introduz genes de resistência aos herbicidas nas PDDC, responsáveis pelos principais problemas da agricultura mundial.",
+      "D) impede o controle e o combate das pragas nas plantações, facilitando a dispersão das sementes das espécies invasoras.",
+      "E) consiste no uso de organismos para reduzir ou erradicar, nas plantações, a infestação de espécies nocivas."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 20,
+    "pergunta": "Segundo a FAO, a produção de proteína animal é também considerada fundamental para a segurança alimentar \nda população do mundo. E, nesse aspecto, a contribuição da América Latina é importante, pois ocupa o segundo \nlugar mundial, perdendo apenas para a Ásia, na produção de carnes, pescados, leite e ovos.\n\n Adaptado.\n\nSegundo especialistas, no organismo humano, esse tipo de nutriente desempenha várias funções biológicas \nimportantes, como as realizadas",
+    "imagens": [],
+    "alternativas": [
+      "A) pela hemoglobina, que provoca a coagulação e que estimula a reparação dos vasos sanguíneos lesados.",
+      "B) pelas enzimas, que se ligam aos gases respiratórios e que distribuem o gás carbônico dos alvéolos pulmonares a todas as células do corpo.",
+      "C) pelo colágeno, que atua como catalisador de reações químicas e que diminui a elasticidade e a hidratação da pele e das cartilagens humanas.",
+      "D) pelas imunoglobulinas, que agem na defesa e atuam contra os antígenos que entram no organismo por meio de vacinação ou de uma infecção ativa.",
+      "E) pela insulina, que atua no controle da ovulação, no desenvolvimento de características sexuais secundárias femininas e pelo controle do ciclo menstrual."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 21,
+    "pergunta": "A cidade mexicana de La Paz e o Parque Nacional da Patagônia (PNP), no Chile, separados por quase \n9 000 quilômetros, são dois lugares da América Latina que aparecem na lista dos 100 “melhores lugares do mundo”\na se explorar, segundo ranking de uma revista estadunidense.\n Adaptado.\n\nO quadro apresenta as coordenadas de tempo em GMT (Greenwich Mean Time), que são utilizadas para definir \nos fusos horários.\n\n Lugares\nLa Paz (México)\nPNP (Chile)\n\nFuso horário na região\n– 7 GMT\n– 4 GMT\n\nSuponha que seja possível embarcar em um voo direto entre esses dois lugares e que a aeronave faça esse trajeto \ncom velocidade média de 900 km/h.\nSe um passageiro embarcasse em La Paz às 09h45min, ele desembarcaria no PNP, aproximadamente, às",
+    "imagens": [],
+    "alternativas": [
+      "A) 6 h 45 min.",
+      "B) 12 h 45 min.",
+      "C) 16 h 45 min.",
+      "D) 19 h 45 min.",
+      "E) 22 h 45 min."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 22,
+    "pergunta": "O congestionamento de tráfego é um desafio para a saúde econômica da América Latina. Investir em transporte \npúblico pode ser uma solução, uma vez que essa modalidade de transporte pode ser vista como uma maneira \ninteligente de usar o espaço público. \n\nDados apontam que um carro de médio porte ocupa 8 m² e transporta até 5 pessoas, enquanto um ônibus básico \nocupa 56 m² e transporta até 70 pessoas.\n\n I \n\nLogo, para transportar simultaneamente 70 pessoas, a quantidade mínima de carros necessária é de , \no que equivale ao espaço público ocupado por ônibus.\n\n I I \n\nAssinale a alternativa que completa corretamente os espaços numerados.\n\nI \nII",
+    "imagens": [],
+    "alternativas": [
+      "A) 28 1",
+      "B) 14 4",
+      "C) 14 2",
+      "D) 7 2",
+      "E) 7 4"
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 23,
+    "pergunta": "A taxa bruta de matrícula é o indicador mais usado em todo o mundo para monitorar o acesso à educação. \nO gráfico apresentado foi elaborado utilizando uma aproximação linear para os valores dessa taxa de matrícula no \nensino superior.\n\nTaxa bruta de matrícula no ensino superior na América Latina e Caribe de 2000 a 2020\n\n60,0\n\nTAXA BRUTA DE MATRÍCULAS ( % )\n\n54,1\n\n45,0\n\n30,0\n\n15,0\n23,1\n\nANOS\n2000\n\n2005\n2010\n2015\n2020\n\nFonte dos dados: \n\nDe acordo com o gráfico, pode-se concluir, corretamente, que a taxa bruta de matrículas no ensino superior, \nestimada no ano de",
+    "imagens": [],
+    "alternativas": [
+      "A) 2000, corresponde à metade daquela aferida no ano de 2010.",
+      "B) 2005, é um número que pertence ao conjunto dos números não positivos.",
+      "C) 2010, equivale ao mesmo número representado pela fração irredutível .",
+      "D) 2015, quando comparada com aquela medida no ano de 2000, é três vezes maior.",
+      "E) 2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 24,
+    "pergunta": "A Organização Pan-Americana de Saúde (OPAS) aderiu à “Década de Ação pela Segurança no Trânsito \n2021–2030” com a intenção de diminuir o número de mortes e de lesões em acidentes de trânsito. \n\nUm dos principais motivos observados é o excesso de velocidade. Por isso, têm sido instalados detectores de \nvelocidade. Entretanto, esses detectores precisam ser periodicamente calibrados. \n\nUma história clássica, ocorrida em 2021, foi a suspensão da Carteira Nacional de Habilitação (CNH) de um \nmotociclista que teria percorrido uma estrada a cerca de 900 km/h (≅ 250 m/s).\n\nSuponha que ele estivesse realmente a essa velocidade e o conjunto moto-piloto tivesse massa igual a 200 kg.\n\nDespreze quaisquer ações dissipativas e assinale a alternativa que apresenta, aproximadamente, o valor da \nenergia cinética, em joules, envolvida no conjunto moto-piloto no momento do registro. \n\n=\nEc\nm v2\n\nDado: \n\n2",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 25,
+    "pergunta": "Segundo a OPAS, na América Latina, mais de 10 mil pessoas morrem, a cada ano, em consequência de \ncomplicações causadas pelo mal de Chagas, sendo que cerca de 6 a 8 milhões de pessoas convivem com \nessa doença, apesar de 70 % delas não saberem que estão infectadas devido à ausência de sintomas clínicos. \n\n Adaptado.\n\nPara prevenir, detectar, tratar essa enfermidade e quebrar a cadeia de transmissão, é importante saber que essa \ndoença se caracteriza por ser",
+    "imagens": [],
+    "alternativas": [
+      "A) uma infecção bacteriana transmitida por contato direto com os indivíduos contaminados, a qual causa coceira e infecções generalizadas.",
+      "B) uma infecção cutânea micótica debilitante, a qual causa necroses nos tecidos epiteliais, nos ossos, nos tecidos moles e gera problemas cardíacos.",
+      "C) uma doença viral transmitida aos seres humanos por meio de mordidas de animais infectados, a qual pode ocasionar convulsões e problemas pulmonares.",
+      "D) uma protozoose transmitida aos seres humanos por meio de insetos hematófagos contaminados, a qual pode ser fatal quando os sintomas se desenvolvem.",
+      "E) uma verminose transmitida aos seres humanos pela picada de fêmeas infectadas de mosquitos, a qual pode provocar hemorragias, patologias hepáticas e morte.  Leia uma passagem da obra  Leia uma passagem da obra O Livro dos Abraços O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que  , de Eduardo Galeano, escritor uruguaio que  retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27. retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27. A tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que  ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se  fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de  fazê-la, sacodem os ombros.  Na América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de  escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 26,
+    "pergunta": "Segundo o texto apresentado, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) a televisão, como ferramenta democrática de divulgação de informação, representa diferentes expressões culturais.",
+      "B) a apropriação cultural ocorre nas gerações anteriores ao desenvolvimento da cultura de massa, fazendo-as se engajarem em movimentos sociais.",
+      "C) países da América Latina têm acesso pleno à liberdade de expressão, valendo-se de recursos sonoros e escritos para se comunicar livremente.",
+      "D) o incentivo ao desenvolvimento cultural, à liberdade de expressão e à mobilização social ocorre devido ao aparecimento da televisão e do rádio.",
+      "E) a mídia de massa gera um alheamento social, resultado da falta de acesso à cultura e da difusão de uma cultura hegemônica."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 27,
+    "pergunta": "O uso de conotação é recorrente, no texto apresentado, devido a seu caráter literário.\nIsso fica evidente na oração “o planeta inteiro é um vasto subúrbio de Dallas”, que é uma",
+    "imagens": [],
+    "alternativas": [
+      "A) metáfora.",
+      "B) zeugma.",
+      "C) personificação.",
+      "D) paradoxo.",
+      "E) catacrese."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 28,
+    "pergunta": "Assinale a alternativa que indica, em metros cúbicos, o volume total de grânulos do radioisótopo mencionado no \ntexto. (Adote π = 3)",
+    "imagens": [],
+    "alternativas": [
+      "A) 1,0 × 10– 6",
+      "B) 1,5 × 10– 6",
+      "C) 3,0 × 10– 6",
+      "D) 4,5 × 10– 6",
+      "E) 6,0 × 10– 6"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Matemática\nQuestão\nAlternativa\nDisciplina"
+  },
+  {
+    "id": 29,
+    "pergunta": "60\n27Co\n\nO radioisótopo cobalto-60 emite uma partícula beta negativa, transformando-se no isótopo estável \n níquel-60 .\n\n60\n28Ni\n\nA alternativa que contém a equação nuclear correta para representar a emissão descrita é\n\n60\n60\n27\n28\nCo\nNi\n0\n1β\n–",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 30,
+    "pergunta": "Meia-vida é o tempo necessário para que a atividade radioativa de um elemento seja reduzida pela metade. \n\nLevando em consideração que um ano possui 365 dias, verifica-se que a atividade radioativa do radioisótopo \ndiminuiu, num período de 7300 dias, um percentual equivalente a",
+    "imagens": [],
+    "alternativas": [
+      "A) 93,75.",
+      "B) 87,50.",
+      "C) 25,00.",
+      "D) 12,50.",
+      "E) 6,25."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 31,
+    "pergunta": "A partir da década de 1960, diversas empresas denominadas “maquiladoras” começaram a se instalar nas \ncidades do norte do México e passaram a empregar milhares de trabalhadores, que, majoritariamente, recebem \nbaixos salários e desconhecem seus direitos mais básicos.\n\n Adaptado.\n\nEssas empresas, em sua maioria, são",
+    "imagens": [],
+    "alternativas": [
+      "A) estadunidenses, que, com a específica intencionalidade de impedir a imigração latino-americana para os Estados Unidos, instalam-se na fronteira sul do México e oferecem altos salários para fixar esses trabalhadores  em solo mexicano.",
+      "B) mexicanas, que preferiram sair da economia de aglomeração, na cidade do México, para obter vantagens comparativas no sul dos Estados Unidos, aproveitando-se dos acordos de isenção de impostos entre  este país e o Mercosul.",
+      "C) europeias, que produzem cosméticos e produtos de beleza, as quais se instalaram na cidade do México em troca de isenção de impostos de importação e exportação previstos nos acordos firmados entre o  México e a União Europeia.",
+      "D) estadunidenses, que se instalaram no México e importam insumos dos Estados Unidos, produzem bens que são exportados de volta para este país, aproveitando os baixos custos da mão de obra local.",
+      "E) mexicanas, que se estabeleceram no sul do México em razão da existência de grandes jazidas de minérios utilizados na fabricação de diferentes produtos exportados para diversos países."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 32,
+    "pergunta": "No século XIX, o cientista inglês Charles Darwin explorou a costa da América do Sul, da Bahia ao arquipélago de \nGalápagos, situado a aproximadamente 1000 km da costa do Equador. Darwin foi um dos primeiros naturalistas a \nexplorar esse arquipélago, onde observou uma fauna e uma flora que variavam de ilha para ilha e que diferiam de \noutras encontradas no continente. \nAs inúmeras observações e pesquisas realizadas por esse naturalista desencadearam reflexões que o levaram a \ndesenvolver suas ideias sobre a evolução da vida, as quais se basearam",
+    "imagens": [],
+    "alternativas": [
+      "A) na transmissão genética, de um organismo parental aos descendentes, das características adquiridas por geração espontânea.",
+      "B) nos avanços dos estudos da biotecnologia, da clonagem dos seres vivos e das mutações gênicas.",
+      "C) nas contribuições dos estudos químicos detalhados de cromossomos do genoma humano.",
+      "D) nos estudos dos processos de sobrevivência dos seres vivos mais bem adaptados.",
+      "E) na lei de uso e desuso das estruturas anatômicas do corpo dos animais."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 33,
+    "pergunta": "Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no \nsolo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos \nnitrogenados, como a amônia (NH3).\nEsta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio:\n\n2 NH3(g) \n N2(g) + 3 H2(g) \n\nO químico francês Le Chatelier, estudando o comportamento de sistemas em equilíbrio quando sujeitos à variação \nde fatores como concentração, pressão e temperatura, chegou às seguintes conclusões:\n\n• o aumento da concentração de reagentes desloca o equilíbrio no sentido dos produtos;\n• a diminuição da concentração de reagentes desloca o equilíbrio no sentido dos reagentes;\n• o aumento da pressão desloca o equilíbrio no sentido do menor volume gasoso; e\n• a diminuição da pressão desloca o equilíbrio no sentido de maior volume gasoso. \n\nDesse modo, considerando apenas essas conclusões, para deslocar o equilíbrio da referida equação no sentido \nda formação de amônia, deve-se",
+    "imagens": [],
+    "alternativas": [
+      "A) aumentar a concentração de NH3.",
+      "B) diminuir a concentração de N2.",
+      "C) diminuir a concentração de H2.",
+      "D) diminuir a pressão do sistema.",
+      "E) aumentar a pressão do sistema."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 34,
+    "pergunta": "No texto apresentado, o(s) pronome(s)",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 35,
+    "pergunta": "De acordo com os textos, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) os movimentos artístico-literários das Américas são dependentes de modelos europeus até hoje, no século XXI.",
+      "B) a arte latino-americana do século XX realizou-se sob a influência de artistas parisienses que foram exilados da Europa.",
+      "C) a obra de Joaquín Torres-García, apesar de apresentar uma preocupação estética, tem os elementos exigidos pela Geografia para ser considerada também um mapa.",
+      "D) o desconforto gerado pela falta de uma identidade artística própria motivou artistas da América do Sul a buscarem, em sua cultura e em seu espaço, inspiração para suas obras.",
+      "E) o desenvolvimento de uma arte genuína, sem influência estrangeira, foi rapidamente concretizado devido à urgência da população em buscar uma identidade cultural própria."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 36,
+    "pergunta": "O texto apresentado pertence ao gênero",
+    "imagens": [
+      "imagens/pag15_q36_img1.png"
+    ],
+    "alternativas": [
+      "A) folheto, divulgando um novo curso acadêmico direcionado ao público latino-americano.",
+      "B) propaganda, anunciando um concerto de música clássica em um ginásio poliesportivo.",
+      "C) convite, apresentando um jantar beneficente que ocorrerá em um hotel, em St. Augustine.",
+      "D) pôster, falando de uma degustação gratuita de vinhos latino-americanos.",
+      "E) campanha, incentivando a criação de bandas latino-americanas nos EUA."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 37,
+    "pergunta": "A América Latina é uma das regiões do globo terrestre especialmente vulnerável à ocorrência de terremotos, \npois se localiza perto das bordas de placas tectônicas. No entanto, os terremotos não se distribuem igualmente \npelo território latino-americano.\n\nUma das áreas onde os terremotos se concentram é",
+    "imagens": [],
+    "alternativas": [
+      "A) na porção ocidental da América do Sul, em função do choque das placas de Nazca e Sul-americana.",
+      "B) na porção oriental da América do Sul, em função do choque das placas de Cocos e Sul-americana.",
+      "C) na porção norte do Caribe, em função do afastamento das placas Indiana e Euro-asiática.",
+      "D) no interior da América do Sul, em função do choque das placas Arábica e Australiana.",
+      "E) na porção sul do Caribe, em função do afastamento das placas do Pacífico e Filipina."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 38,
+    "pergunta": "Três conhecidos, Ceci, Peri e Iracema, estão decidindo se vão visitar Cuba. Contudo, devido a questões pessoais, \nsabe-se que: \n\nI. Ceci só vai visitar Cuba, se Iracema for;\nII. se Peri for visitar Cuba, Ceci também irá.\n\nAssinale a alternativa que apresenta uma conclusão lógica verdadeira.",
+    "imagens": [],
+    "alternativas": [
+      "A) Ceci e Peri não irão visitar Cuba.",
+      "B) Se Ceci decidir visitar Cuba, Peri não irá.",
+      "C) Se Peri decidir visitar Cuba, Iracema não irá.",
+      "D) Se Iracema não for visitar Cuba, Ceci também não irá.",
+      "E) Peri e Iracema irão juntos visitar Cuba."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 39,
+    "pergunta": "O físico brasileiro César Lattes tornou-se conhecido por descobrir a partícula subatômica méson pi (píon). \nA descoberta foi descrita por Lattes no artigo Processes involving charged mesons, publicado pela revista \nNature em 1947. O texto é coassinado por seus colegas de laboratório: Powell, Occhialini e Muirhead. \nEssa descoberta rendeu, em 1950, um Prêmio Nobel de Física e uma posterior controvérsia. \nO comitê do Nobel concedeu o prêmio apenas a Powell pelo desenvolvimento do método fotográfico para \nestudo de processos nucleares e pelos achados relacionados aos mésons. O motivo de o prêmio não ter \nido para o brasileiro foi a política interna do Nobel. Até 1960, a regra era premiar apenas o chefe da equipe \nresponsável pela descoberta. Entretanto, a façanha de Lattes marcou o início de um novo campo de estudos \nda Física. \n Adaptado.\n\nPodemos afirmar, corretamente, que o campo de estudo relacionado à descoberta de Lattes refere-se a",
+    "imagens": [],
+    "alternativas": [
+      "A) Física de Partículas.",
+      "B) Física Clássica.",
+      "C) Biofísica.",
+      "D) Termodinâmica.",
+      "E) Eletromagnetismo."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 40,
+    "pergunta": "O Relatório Planeta Vivo, produzido pela ONG Fundo Mundial para a Natureza (WWF), apontou que, entre 1970 \ne 2018, houve uma queda significativa nas populações de espécies monitoradas de animais em todo o planeta. \nNo Brasil, o relatório identificou ameaças específicas a símbolos nacionais, como o boto-cor-de-rosa da \nAmazônia, a onça-pintada, o tatu-bola, os corais e os lagartos da Caatinga.\n\n Adaptado.\n\nEntre os fatores que impactam a vida dos animais monitorados, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) a contaminação dos rios, em consequência do garimpo ilegal, preserva a fauna dos botos-cor-de-rosa, que ficam protegidos da pesca predatória.",
+      "B) o avanço das fronteiras agrícolas gera o desmatamento, que favorece a mudança dos hábitats naturais dos animais e que aumenta suas chances de sobrevivência.",
+      "C) a introdução de espécies, que não vivem normalmente em determinado ambiente, ocasiona a ocorrência de mutações nas espécies nativas, sem afetar o equilíbrio do ecossistema.",
+      "D) as mudanças climáticas, por provocarem um aumento na temperatura do planeta, favorecem a reprodução dos animais aquáticos e terrestres, possibilitando o aumento da fauna.",
+      "E) a retirada ilegal de madeira, a exploração de plantas, o tráfico de animais e plantas silvestres dificultam a sobrevivência de vários organismos, que acabam entrando em extinção."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 41,
+    "pergunta": "A Usina Hidrelétrica de Itaipu corresponde a uma imensa construção que foi desenvolvida \na partir dos interesses do Brasil e do Paraguai, e pertence a ambos. Em 1966, os \nministros de Relações Exteriores dos dois países assinaram a “Ata do Iguaçu”, para \nanalisar a viabilidade do projeto. No ano de 1970, foi realizada uma licitação para a \nescolha das empresas responsáveis pela obra. A execução teve início no ano seguinte, \n1971. Em 1973, foi assinado o Tratado de Itaipu, que legalizou e oficializou a utilização \ndo rio Paraná para a construção da usina. No ano de 1974, foi instituída uma entidade \npara gerenciar a construção. Em 1978, o curso do rio Paraná foi desviado e, quatro \nanos depois, a construção da barragem foi finalizada. A usina entrou em funcionamento \nem 1984. \n\n Adaptado.",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 42,
+    "pergunta": "Heitor Villa-Lobos (1887–1959) foi maestro, compositor, pianista e violonista brasileiro reconhecido mundialmente. \nSuas obras para violão são estudadas em praticamente todas as faculdades de música do mundo.\n\nO violão acústico é um instrumento musical de cordas que não precisa de energia elétrica, que é geralmente feito \nde madeira, com um corpo oco, chamado de caixa de ressonância, e que possui um orifício circular na frente.\n\nCaixa de\nRessonância\n\nCorpo\n\nBraço\n\nCordas\n\nPonte\n\nOrifício \nCircular\n\nSobre os conceitos de Física que envolvem esse instrumento musical, podemos afirmar corretamente que",
+    "imagens": [
+      "imagens/pag17_q42_img1.png"
+    ],
+    "alternativas": [
+      "A) as cordas, quando tocadas corretamente, vibram em frequências que destoam de uma nota musical.",
+      "B) a tensão e o comprimento da corda, definidos pela posição dos dedos no braço do instrumento, afetam a frequência da nota musical quando a corda vibra.",
+      "C) o corpo atua como uma caixa de ressonância, pois diminui a intensidade do som das cordas vibrantes captado pelo orifício circular.",
+      "D) o corpo, mesmo sendo feito com materiais e em formas diferentes, ressoa sempre da mesma maneira.",
+      "E) o tocar, mesmo sem microfone, envolve a conversão de energia mecânica em energia elétrica."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 43,
+    "pergunta": "Leia o texto e complete a frase.\n\n I \nA região de Essequibo, reivindicada _________, engloba praticamente toda a área a oeste do Rio Essequibo, \nno território __________. A região em questão tem cerca de 159 mil quilômetros quadrados (um pouco maior \ndo que o estado do Ceará) tomados pelo bioma amazônico e é rica em recursos minerais e naturais.\n\n I I \n\n Adaptado.\n\nAssinale a alternativa que completa, correta e respectivamente, o texto \n\nI\nII",
+    "imagens": [],
+    "alternativas": [
+      "A) pela Guiana brasileiro",
+      "B) pela Guiana surinamês",
+      "C) pela Venezuela surinamês",
+      "D) pela Venezuela guianense",
+      "E) pelo Brasil venezuelano"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 44,
+    "pergunta": "Na Copa do Mundo de futebol masculino de 2022, participaram 32 países, dos quais 6 eram latino-americanos: \nArgentina, Brasil, Costa Rica, Equador, México e Uruguai.\n\nConsidere que dois países participantes dessa Copa serão sorteados, aleatoriamente, para disputar uma partida \namistosa, então a probabilidade de os dois sorteados serem latino-americanos é",
+    "imagens": [],
+    "alternativas": [
+      "A) menor que 1 %.",
+      "B) maior que 1,0 % e menor que 2,2 %.",
+      "C) maior que 2,2 % e menor que 3,3 %.",
+      "D) maior que 3,3 % e menor que 4,9 %.",
+      "E) maior que 4,9 %."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Geral"
+  },
+  {
+    "id": 45,
+    "pergunta": "Em 1958, num congresso da Conmebol realizado no Rio de Janeiro, ficou definido que seria realizada uma \ncompetição continental com os clubes campeões nacionais de futebol da América do Sul. Em 1965, o torneio \nteve seu nome alterado para Copa Libertadores da América. O motivo da mudança tinha a ver com identidade \nregional, pois o novo nome homenageava um conjunto de líderes que se destacaram na história do continente. \n\n Adaptado.\n\nO conjunto de líderes, a que o texto se refere, foi responsável",
+    "imagens": [],
+    "alternativas": [
+      "A) pelo fim das ditaduras cívico-militares implementadas nos países do chamado “Cone Sul”, região que abriga México, Guatemala e Honduras.",
+      "B) pela eliminação das seleções de Alemanha, Itália, Espanha e França das Copas do Mundo de 1934, 1938, e 1954.",
+      "C) pela independência dos países de colonização espanhola e portuguesa na porção Sul do Continente Americano.",
+      "D) pela resistência dos povos indígenas da América Latina à dominação colonial espanhola e portuguesa no continente.",
+      "E) pela abolição legal do tráfico e do comércio de escravizados africanos, que levou à libertação de milhares de cativos em todo o continente."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 46,
+    "pergunta": "Baseando-se no texto, assinale a alternativa correta.",
+    "imagens": [],
+    "alternativas": [
+      "A) O Reino Unido adotou o Sistema Métrico em 1824.",
+      "B) Todas as ex-colônias britânicas adotam o British Imperial System.",
+      "C) O sistema de medidas usado nos EUA advém do Sistema Métrico criado em 1965.",
+      "D) O Imperial System não padronizou as medidas de pés e libras nos países que as adotam.",
+      "E) O Sistema Métrico também é conhecido atualmente como Sistema Internacional."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 47,
+    "pergunta": "Das informações contidas no texto, é possível inferir corretamente que",
+    "imagens": [],
+    "alternativas": [
+      "A) Libéria, Myanmar e os Estados Unidos adotam o “metro” e o “quilograma”.",
+      "B) a América Latina usa o Sistema Imperial de medidas.",
+      "C) algumas unidades do Sistema Internacional são: m, kg, s, A, K e cd.",
+      "D) a unidade “ampère” corresponde a todas as grandezas de eletricidade.",
+      "E) “pés” e “metro” são usados para medir distância tanto no Sistema Imperial, quanto no Sistema Internacional."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 48,
+    "pergunta": "A tirinha é um gênero que utiliza linguagem verbal e \nnão verbal na construção de sentido.\n\nAo analisá-la, conclui-se corretamente que",
+    "imagens": [
+      "imagens/pag20_q48_img1.png"
+    ],
+    "alternativas": [
+      "A) a personagem mantém hábitos condizentes com sua cultura ancestral.",
+      "B) o susto expresso pela personagem evidencia sua falta de conhecimento histórico.",
+      "C) a influência da cultura estrangeira é assimilada conscientemente pela personagem.",
+      "D) o resultado do teste demonstra a despreocupação da personagem com sua origem.",
+      "E) a expressão em inglês, dita pela personagem, é incoerente com o espaço em que está.  Original colorido."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 49,
+    "pergunta": "De acordo com o texto, o que pode ter levado à destruição da sociedade em questão foi",
+    "imagens": [],
+    "alternativas": [
+      "A) um vulcão.",
+      "B) um meteoro.",
+      "C) um terremoto.",
+      "D) uma epidemia.",
+      "E) uma guerra."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 50,
+    "pergunta": "A nova descoberta descrita no texto aponta que, na região Amazônica,",
+    "imagens": [],
+    "alternativas": [
+      "A) havia apenas o povo maia.",
+      "B) havia muitos vilarejos isolados, que não se conectavam.",
+      "C) os nativos eram nômades, extrativistas e viviam em pequenos grupos.",
+      "D) havia inúmeros grupos primitivos que ainda não praticavam a agricultura.",
+      "E) as sociedades se conectavam por uma grande estrutura de estradas e canais."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 51,
+    "pergunta": "Com base no texto, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) as cidades encontradas no Vale Upano, no estado brasileiro do Amazonas, são mais antigas que a chegada dos primeiros europeus ao território americano.",
+      "B) as cidades do Vale Upano, quando descobertas por Cristóvão Colombo, foram rapidamente destruídas para dar lugar às atuais metrópoles latino-americanas.",
+      "C) a ausência de agricultura nas cidades pré-colombianas foi a maior responsável pela extinção dessas cidades, que não suportaram o ônus de comprar alimentos das metrópoles.",
+      "D) o continente americano já era povoado, quando Cristóvão Colombo ali chegou, e abrigava sociedades que detinham conhecimentos e técnicas complexas em diversas áreas.",
+      "E) as estradas largas e retas foram projetadas para que pudessem servir de caminho para os primeiros automóveis movidos a combustível fóssil, construídos no continente americano."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 52,
+    "pergunta": "Quéchua é uma família de línguas falada por diversos grupos étnicos, ao longo da região da cordilheira dos Andes. \nO quadro mostra os dez primeiros numerais nas línguas portuguesa e quéchua.\n\nPortuguês\num\ndois\ntrês\nquatro\ncinco\nseis\nsete\noito\nnove\ndez\n\nQuéchua\nshuc\nishcai\nquimsa\nchuscu\npichca\nsucta\ncanchis\npusac\niscun\nchunca\n\nNessa família de línguas, no que se refere ao seu sistema de numeração, existem algumas regras que são \nregulares e não variam. Por exemplo, se o nome de um algarismo está \n\n• antes do numeral 10, isso indica uma multiplicação: pusac chunca é oito vezes dez, ou seja, 80; \n• depois do numeral 10, isso indica uma adição: chunca pusac é dez mais oito, ou seja, 18.\n\nD’AMORE, B. Matemática em Algumas Culturas da América Sdo Sul: uma contribuição à Etnomatemática. \n\nBoletim de Educação Matemática, vol.16, n.19, 2003. Adaptado. \n\nSeguindo a lógica de formação numérica apresentada no texto, o numeral trinta e nove (39), na língua quéchua, é",
+    "imagens": [],
+    "alternativas": [
+      "A) quimsa chunca iscun.",
+      "B) quimsa iscun chunca.",
+      "C) chunca quimsa iscun.",
+      "D) iscun chunca quimsa.",
+      "E) iscun quinsa chunca."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 53,
+    "pergunta": "Os queros são descendentes de uma linhagem inca que, até hoje, fala a língua quéchua e mantém a tradição \ndo culto à Pachamama (Mãe Terra) e aos Apus (espíritos das montanhas). São camponeses e pastores que \nvalorizam o amor, o respeito e a comunicação com a terra, trazendo consigo o Sumak Kausay, o “Bem-Viver”; \no Ayni, a reciprocidade com a vida; e o Ayllu, a compreensão da vida coletiva e em comunidade.\n\n Adaptado.\n\nSegundo o texto, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) os queros adotam um estilo de vida displicente e descuidado, privilegiando a religiosidade em detrimento do trabalho.",
+      "B) o estilo de vida baseado na satisfação dos desejos e interesses individuais, em detrimento das demandas coletivas, é predominante nas comunidades dos queros.",
+      "C) a organização social e religiosa dos queros baseia-se na valorização da vida em comunidade e no respeito à natureza como elementos centrais para alcançar o “Bem-Viver”.",
+      "D) os queros modernizaram a língua e a tradição incas, integrando-se à vida urbana das sociedades contemporâneas, modificando tanto hábitos quanto costumes.",
+      "E) o culto à Pachamama impede que os queros realizem, a contento, as atividades econômicas como o cultivo de terra e o pastoreio de animais."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 54,
+    "pergunta": "Leia o texto que um missionário dominicano escreveu aos reis da Espanha em 1565.\n\nTodas as guerras que chamamos de conquista foram e são injustíssimas. Nós usurpamos todos os reinos \ne senhorios das Índias. As encomiendas e repartimentos de índios são cruéis e tirânicos, todos os que se \nbeneficiam delas estão sempre em pecado mortal e, se não renunciarem a essas práticas, não poderão se \nsalvar. Todo o ouro, a prata, as pérolas e outras riquezas que foram à Espanha são roubados e, se não forem \ndevolvidos, quem os tomou não poderá se salvar. Todas as pessoas de quem roubamos, em qualquer parte, \ntêm direito adquirido de nos fazer guerra justíssima e este direito valerá até o dia do Juízo Final.\n\nLUSTOSA, Oscar de Figueiredo. “Notas para um centenário: Bartolomeu de Las Casas (1474-1575)”. In: Revista de História. V. 51, nº 102, p. 717-729, \n\n1975. Traduzido e adaptado.\n\nSegundo o texto,",
+    "imagens": [
+      "imagens/pag22_q54_img1.png"
+    ],
+    "alternativas": [
+      "A) as regras do direito internacional permitiram que os povos colonizados na Ásia renunciassem a práticas tirânicas.",
+      "B) as guerras contra os nativos foram uma justa resposta aos ataques e aos roubos praticados pelos americanos.",
+      "C) a colonização do continente americano ocorreu em um contexto de harmonia entre europeus e colonizados.",
+      "D) a presença europeia na Ásia ocorreu em condições adversas, tornando os espanhóis vítimas da crueldade dos indianos.",
+      "E) a conquista espanhola da América foi marcada pela opressão e pela violência contra os povos nativos da região. PROPOSTA DE REDAÇÃO Texto I"
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "História"
+  }
+]

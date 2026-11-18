@@ -5,11 +5,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vestibular FATEC</title>
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+        crossorigin="anonymous"></script>
+
     <link data-trunk rel="rust" data-bin="quiz-wasm-leptos" />
     <link data-trunk rel="css" href="style.css" />
     <link data-trunk rel="copy-dir" href="assets/provas" />
 </head>
 
-<body></body>
+<body>
+    <script>
+        window.addEventListener("DOMContentLoaded", () => {
+            let scheduled = false;
+            const renderMath = () => {
+                scheduled = false;
+                if (window.renderMathInElement) {
+                    window.renderMathInElement(document.body, {
+                        delimiters: [
+                            { left: "$$", right: "$$", display: true },
+                            { left: "$", right: "$", display: false }
+                        ],
+                        throwOnError: false
+                    });
+                }
+            };
+
+            const observer = new MutationObserver(() => {
+                if (!scheduled) {
+                    scheduled = true;
+                    requestAnimationFrame(renderMath);
+                }
+            });
+
+            observer.observe(document.body, { childList: true, subtree: true });
+        });
+    </script>
+</body>
 
 </html>
