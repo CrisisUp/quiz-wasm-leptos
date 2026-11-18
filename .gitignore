@@ -1,0 +1,4 @@
+/target
+/dist
+pdfs_origem/*.pdf
+.DS_Store

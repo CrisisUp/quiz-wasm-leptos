@@ -1,0 +1,912 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Em atletas que realizam atividades físicas muito intensas e prolongadas, o gás oxigênio (O2) que chega aos músculos \npode ser insuficiente para realizar o processo de respiração aeróbica e liberar a energia química (ATP) necessária \nà contração das fibras musculares. Quando o O2 é insuficiente, essas fibras podem também obter ATP por meio da \nfermentação lática, um processo anaeróbico que, embora produza menos energia do que o processo aeróbico, garante \na continuidade da contração muscular.\n\nSobre a insuficiência mencionada no texto, assinale a alternativa correta.",
+    "imagens": [],
+    "alternativas": [
+      "A) Uma quantidade maior de ATP é liberada em relação à que ocorre no processo aeróbico.",
+      "B) O gás carbônico (CO2 ) é liberado no interior dos ribossomos, ocasionando aumento do pH celular.",
+      "C) A produção de ácido acético é estimulada para garantir a contração eficiente dos músculos e prevenir cãibras.",
+      "D) O lactato é produzido como produto da quebra da glicose, o que permite continuar gerando energia química (ATP) rapidamente.",
+      "E) Uma quantidade de moléculas inorgânicas e de etanol, ricos em energia necessária para a contração muscular, é produzida durante exercícios intensos."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 2,
+    "pergunta": "Em 2023, segundo relatório da Organização Mundial da Saúde (OMS), a tuberculose voltou a ser uma das principais \ncausas de morte por um único agente infeccioso no mundo.\nOs atletas profissionais estão expostos a um risco elevado de contrair doenças infecciosas, incluindo a tuberculose, \ndevido a fatores ocupacionais específicos como viagens internacionais frequentes, a convivência em ambientes \nde treinamento fechados etc.\n\nEntre as medidas preventivas que devem ser adotadas para não se contrair essa doença, destaca-se",
+    "imagens": [],
+    "alternativas": [
+      "A) a prática regular de atividades físicas que proporcionem uma vida saudável, com fortalecimento muscular e saúde cardiovascular, a fim de adquirir imunidade contra as formas virais mais graves da doença.",
+      "B) o consumo de água tratada, que passou por processos de purificação em estações de tratamento a fim de remover impurezas, microrganismos patogênicos e substâncias nocivas.",
+      "C) o uso de máscaras, ao se ter contato com um doente, a fim de evitar a inalação de gotículas contaminadas e exaladas pela tosse, fala ou espirro do paciente.",
+      "D) o consumo de frutas e verduras cruas higienizadas a fim de eliminar o risco de contaminação pelos microrganismos parasitas causadores da doença.",
+      "E) a ingestão preventiva de antibióticos a fim de impedir a propagação, nas vias respiratórias, dos vírus causadores dessa patologia."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 3,
+    "pergunta": "A eritropoietina (EPO) é um hormônio natural do corpo humano produzido principalmente pelos rins e fígado. \nEsse hormônio estimula a medula óssea a produzir glóbulos vermelhos (hemácias), aumentando o transporte \nde oxigênio para todo o corpo.\n\nUma consequência direta da baixa oxigenação tecidual causada pela falta de EPO é",
+    "imagens": [],
+    "alternativas": [
+      "A) a icterícia (pele amarelada) por acúmulo de bilirrubina.",
+      "B) a intolerância ao esforço físico e fadiga extrema.",
+      "C) a hipertensão arterial imediata severa.",
+      "D) o aumento súbito da densidade óssea.",
+      "E) a hipersensibilidade à luz (fotofobia)."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 4,
+    "pergunta": "Em eventos internacionais, como a Copa do Mundo de Futebol, com alto fluxo de atletas e turistas, há sempre \na preocupação quanto à falta de acesso à água tratada e à ausência de serviços de coleta e tratamento de esgoto. \n\nPara minimizar esses problemas, as comunidades em geral devem",
+    "imagens": [],
+    "alternativas": [
+      "A) implementar compostagem comunitária para reduzir o volume de lixo inorgânico, tratar as doenças e garantir a insalubridade do meio urbano.",
+      "B) impedir as construções de cisternas, usadas para captação da água das chuvas dos telhados, devido ao risco de contaminação com os poluentes atmosféricos.",
+      "C) lançar o esgoto doméstico nos rios e represas a fim de provocar o fenômeno da eutrofização, que é importante no crescimento de plantas aquáticas e na nutrição dos peixes.",
+      "D) priorizar a construção de hospitais especializados no tratamento de infecções gastrointestinais relacionadas ao esgoto a céu aberto e à água contaminada, independentemente da expansão da infraestrutura de saneamento.",
+      "E) construir banheiros secos ou fossas sépticas, pois funcionam à base de processos biológicos de compostagem ou de biodigestão, em vez de tratamento químico, economizando, assim, água potável."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 5,
+    "pergunta": "O javali simboliza um animal bravo, resistente e difícil de ser vencido, sendo por esse motivo escolhido como símbolo \npara representar diversos times de futebol de várzea e de alguns times profissionais. \nÉ uma espécie exótica invasora introduzida no Brasil a partir da década de 1960 para a exploração comercial \nda sua carne. Entretanto, a produção não se desenvolveu, o que resultou na soltura dos animais para a natureza \ne seu retorno ao estado selvagem. Sua agressividade e facilidade de adaptação são características que, \nassociadas à reprodução descontrolada e à ausência de predadores naturais, resultam no crescimento populacional \ne em diversos impactos ao meio ambiente.\n\nSobre esses animais, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) reduzem o risco de erosão do solo em áreas de várzea.",
+      "B) auxiliam na criação de bovinos em confinamentos.",
+      "C) atuam no controle biológico das lagartas, responsáveis pelas piores pragas agrícolas.",
+      "D) facilitam a dispersão de sementes de árvores nativas raras e em risco de extinção.",
+      "E) possuem alta taxa reprodutiva e grande adaptabilidade a diferentes climas."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Biologia"
+  },
+  {
+    "id": 6,
+    "pergunta": "O café da manhã de um jogador de futebol foi composto, entre outros itens, por:\n\nItens\nProteínas (g)\nCarboidratos (g)\nLipídios (g)\n\nOvos mexidos\n 30\n 4\n 17 \n\nAbacate \n 2\n 9\n 15\n\nIogurte Grego \n 30\n 10\n 14\n\nGranola\n 3\n 20\n 3\n\nSuco de laranja \n 1,5\n 21\n 0,2\n\nConsiderando as proteínas e os carboidratos, que têm o mesmo valor energético (4 kcal/g), assinale a alternativa \nque apresenta corretamente o item mais energético do café da manhã.",
+    "imagens": [],
+    "alternativas": [
+      "A) Ovos",
+      "B) Abacate",
+      "C) Iogurte",
+      "D) Granola",
+      "E) Suco de laranja"
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 7,
+    "pergunta": "A partir das informações apresentadas no gráfico, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) o Personagem 2 possui menor resistência que o Personagem 1, mas maior equilíbrio.",
+      "B) o Personagem 2 é superior ao Personagem 1 em todas as características avaliadas.",
+      "C) ambos os personagens apresentam exatamente o mesmo desempenho em equilíbrio e em força.",
+      "D) o Personagem 1 possui a força como maior estatística; enquanto o Personagem 2, o equilíbrio.",
+      "E) o Personagem 1 apresenta maior desempenho em agilidade, resistência e precisão em relação às mesmas características do Personagem 2."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 8,
+    "pergunta": "Sorteando-se ao acaso uma das habilidades de qualquer um dos dois personagens, a probabilidade de ela ser menor \nou igual a 3 é",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 9,
+    "pergunta": "A média aritmética das estatísticas das habilidades do Personagem 1 pertence a qual intervalo real?",
+    "imagens": [],
+    "alternativas": [
+      "A) [–1 ; 1[",
+      "B) [1 ; 2[",
+      "C) [2 ; 3[",
+      "D) [3 ; 4[",
+      "E) [4 ; 5["
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 10,
+    "pergunta": "Assinale a alternativa que apresenta a área aproximada do polígono cinza, formado pela ligação das estatísticas \ndas habilidades do Personagem 2 no gráfico de radar. Lembre-se de que a área de um triângulo pode ser \n calculada utilizando a fórmula A = l1 . l2 . sen θ , em que θ é o ângulo formado entre dois lados consecutivos do \ntriângulo (l1 e l2), e de que ≈ 1,7.",
+    "imagens": [
+      "imagens/pag5_q10_img1.png"
+    ],
+    "alternativas": [
+      "A) 30,2",
+      "B) 29,4",
+      "C) 27,5",
+      "D) 25,7",
+      "E) 23,8"
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 11,
+    "pergunta": "De acordo com o texto, apesar do truque utilizado para obter o formato esférico da Trionda, pode-se afirmar que, \napós esse processo, a característica do tetraedro que permanece preservada é",
+    "imagens": [],
+    "alternativas": [
+      "A) a medida dos ângulos entre as bordas das regiões da superfície.",
+      "B) o volume do sólido geométrico obtido.",
+      "C) o comprimento das curvas que delimitam cada região da superfície.",
+      "D) o caráter plano das regiões da superfície.",
+      "E) a quantidade de regiões que compõem a superfície do sólido geométrico."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 12,
+    "pergunta": "Lembrando que o volume de uma esfera é dado por V = . π . r3, assinale a alternativa que apresenta o volume \naproximado do modelo Pro da bola Trionda (adote π = 3).",
+    "imagens": [],
+    "alternativas": [
+      "A) 3 571 cm3",
+      "B) 6 084 cm3",
+      "C) 13 140 cm3",
+      "D) 14 283 cm3",
+      "E) 16 425 cm3"
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 13,
+    "pergunta": "Suponha que o modelo Mini da bola Trionda custe R$ 100,00. Assinale a alternativa que apresenta, aproximadamente, \na porcentagem que esse valor representa em relação ao preço do modelo Pro.",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 14,
+    "pergunta": "O Método de Tracking, ou rastreamento da bola, é usado, por exemplo, para desenvolver câmeras com a função \nde seguir a bola durante os jogos. Adaptado.\nSuponha que uma câmera, usando essa tecnologia, tenha mapeado a trajetória de uma bola e registrado na tabela \nalguns dados, sendo que t é o tempo em segundos e A é a altura em metros em relação ao solo.\n\nt\n0\n1\n5\nA\n0\n8\n20\n\n \nLogo, sabendo que a bola descreveu uma trajetória que pode ser modelada por uma função de 2º grau, \nassinale a alternativa na qual essa função está indicada corretamente.",
+    "imagens": [],
+    "alternativas": [
+      "A) A(t) = – t 2 + 9t",
+      "B) A(t) = – t 2 + 5t",
+      "C) A(t) = – t 2 + 13t",
+      "D) A(t) = 3t 2 + 5t",
+      "E) A(t) = 3t 2 + 9t"
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Matemática"
+  },
+  {
+    "id": 15,
+    "pergunta": "Leia o texto e assinale a alternativa que completa corretamente as lacunas.\n\nNas Américas, a transmissão endêmica de sarampo foi interrompida em 2002. Considerando o risco \nde importação desse vírus, diante da realização da Copa do Mundo de 2014 no Brasil, a Organização \nPan-Americana em Saúde publicou, antes do evento, suas recomendações à população.\nO sarampo é uma doença causada por , altamente contagiosa, que pode provocar surtos e exigir rápida \nação de vigilância epidemiológica e vacinação massiva. No caso de vacinação massiva, o limiar de imunidade de\n\n( I ) \n\n1\np = (1 – ) . 100%,\n\nrebanho é calculado usando a seguinte fórmula: em que p é a proporção da população que deve\n\nR 0\n\nser vacinada para interromper a transmissão da doença e R 0 é o número médio de novos casos gerados a partir \nde um caso inicial de sarampo em uma população totalmente suscetível (estimado entre 12 e 18).\nLogo, no caso de uma epidemia de sarampo, a proporção mínima da população que deve ser vacinada para\ninterromper a transmissão da doença é .\n\n( I I )",
+    "imagens": [],
+    "alternativas": [
+      "A) ( I ) uma bactéria ( I I ) 94,4%",
+      "B) ( I ) um vírus ( I I ) 94,4%",
+      "C) ( I ) um protozoário ( I I ) 93,3%",
+      "D) ( I ) um vírus ( I I ) 91,7%",
+      "E) ( I ) uma bactéria ( I I ) 91,7%"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 16,
+    "pergunta": "A Sociedade Esportiva Palestra Itália, hoje mais conhecida como Palmeiras, foi fundada em 1914. A maioria \ndos palestrinos era de origem italiana. No entanto, pessoas que escapavam desse padrão também se apresentavam \nna torcida. É o caso da Maria das Dores, a emblemática “Vovó do Pito”, mulher negra, ex-escravizada que se declarava \nprofundamente Palestrina. Falecida aos 111 anos, em 1934, era considerada a “maior palestrina do país” e a torcedora \nmais inflamada do time.\nDurante a década de 1920, a progressiva introdução de atletas brasileiros na equipe palestrina de futebol também \nseria complementada pela presença de atletas negros em outras modalidades praticadas no interior da agremiação, \ncomo o atletismo. Adaptado. \nEsse relato evidencia que",
+    "imagens": [],
+    "alternativas": [
+      "A) o clube foi fundado inteiramente por europeus, o que inviabilizava a presença de negros em seu quadro de atletas.",
+      "B) o Palestra Itália teve como primeira presidente uma mulher negra, mesmo sendo um clube fundado por maioria italiana.",
+      "C) o clube, por possuir origens italianas, rechaçava a presença de pessoas de outras nacionalidades em suas fileiras de torcedores.",
+      "D) a Itália, por ser um país africano, atraia a simpatia de muitos ex-escravizados que se viam representados pelo Palestra Itália.",
+      "E) o clube, ao invés de adotar uma postura de segregação, abraçava e aprofundava sua relação com a"
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 17,
+    "pergunta": "No dia 14 de outubro de 2014, as seleções da Sérvia e da Albânia disputaram em Belgrado uma partida \ndas eliminatórias da Eurocopa de 2016. Aos 41 minutos de jogo, um drone que carregava a bandeira da Albânia com \na palavra autonomia causou uma reação negativa entre os jogadores da Sérvia, que foram retirar a bandeira, \ncausando uma briga generalizada.\n Adaptado.\n\nAs tensões entre Sérvia e Albânia têm raízes profundas, ligadas a questões históricas e étnicas na região dos Bálcãs. \nO conflito mais proeminente envolve a disputa territorial sobre",
+    "imagens": [],
+    "alternativas": [
+      "A) a Palestina, de maioria albanesa, que luta pela sua independência da Sérvia.",
+      "B) o Kosovo, de maioria albanesa, que declarou independência da Sérvia.",
+      "C) a Cachemira, de maioria sérvia, que luta por sua independência da Albânia.",
+      "D) a Catalunha, de maioria sérvia, que luta pela anexação de seu território à Albânia.",
+      "E) o Nagorno-Karabakh, de maioria albanesa, que declarou sua independência da Sérvia."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 18,
+    "pergunta": "No estado de São Paulo, muitos times de futebol nasceram da união de funcionários das companhias de estradas \nde ferro, como o Noroeste de Bauru, fundado em 1910; o Nacional da capital, fundado em 1919; o Bragantino, em 1928, \nentre outros.\n\nEssa ligação entre o estado de São Paulo e o desenvolvimento ferroviário do final do século XIX e início do século XX \nocorreu devido à",
+    "imagens": [],
+    "alternativas": [
+      "A) interiorização da indústria ferroviária, que construiu fábricas nas cidades médias do interior paulista.",
+      "B) utilização do território paulista para o escoamento da soja plantada no Centro-Oeste pelos portos do estado.",
+      "C) introdução do cultivo da cana de açúcar no interior de São Paulo, incentivado por benefícios fiscais do programa Proálcool.",
+      "D) expansão, no estado, da cultura do café, que fez surgir diversas ferrovias ligando as áreas produtoras ao porto de Santos.",
+      "E) existência de campos de futebol, construídos pelo governo estadual, como opção de lazer aos moradores das cidades interioranas."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 19,
+    "pergunta": "No final do século XIX e início do XX, enquanto a elite jogava em clubes fechados, as classes populares ocupavam \nos terrenos abertos e planos nas margens dos rios para jogar futebol. Por serem áreas de várzea, o esporte praticado \nali passou a ser chamado de “futebol de várzea”. Esses espaços eram públicos ou de difícil uso para construção \ncivil imediata, servindo como campos improvisados onde trabalhadores e comunidades periféricas podiam praticar \no esporte sem as restrições dos clubes de elite. Nos dias atuais, muitas dessas áreas foram impermeabilizadas. \n\nUma das consequências desse processo, para o meio urbano, é",
+    "imagens": [],
+    "alternativas": [
+      "A) aumento da infiltração das águas pluviais no solo.",
+      "B) aumento do volume de água dos lençóis freáticos.",
+      "C) aumento na frequência das enchentes e das inundações.",
+      "D) diminuição da quantidade de chuvas nas margens dos rios.",
+      "E) diminuição da velocidade de escoamento das águas pluviais."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 20,
+    "pergunta": "O Estádio Estadual Milton de Souza Corrêa, em Macapá (AP), conhecido como “Zerão”, possui a fama de coincidir \na linha de meio de campo do gramado com a linha imaginária do Equador. Porém, com o advento de tecnologias de \nsatélite mais precisas, verificou-se que a linha imaginária do Equador está, na verdade, deslocada alguns metros ao sul \ndo centro do gramado. Apesar dessa diferença, o governo do Amapá e os órgãos de turismo mantêm o valor simbólico \ndo estádio como o único no mundo onde cada time defende um hemisfério.\nOs hemisférios a que o texto se refere são corretamente denominados",
+    "imagens": [],
+    "alternativas": [
+      "A) Setentrional e Meridional.",
+      "B) Greenwich e Equador.",
+      "C) Austral e Ocidental.",
+      "D) Boreal e Oriental.",
+      "E) Oeste e Leste."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Geogra"
+  },
+  {
+    "id": 21,
+    "pergunta": "No dia 19 de fevereiro de 2026, no estádio Arena da Floresta, em Rio Branco, no estado do Acre, foi realizada uma \npartida de futebol entre a equipe local do Vasco e o Velo Clube, da cidade de Rio Claro, do estado de São Paulo. \nEssa partida ocorreu às 19 horas, no horário local. \nSabendo que o estado do Acre está no fuso horário UTC–5 e que o estado de São Paulo está no fuso horário UTC–3, \nos torcedores do Velo Clube, no estado de São Paulo, acompanharam o início da partida",
+    "imagens": [],
+    "alternativas": [
+      "A) às 11 horas.",
+      "B) às 17 horas.",
+      "C) às 19 horas.",
+      "D) às 21 horas.",
+      "E) à 1 hora."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 22,
+    "pergunta": "Durante uma partida de futebol, ocorre liberação de diversos compostos químicos no corpo dos atletas, sendo o óxido \nnítrico (NO) um dos mais importantes. Esse composto não reage com substâncias presentes no organismo como água, \nácidos e bases. No entanto, ele atua como um vasodilatador, contribuindo para aumentar o fluxo sanguíneo no corpo. \nIsso facilita a chegada de oxigênio e de nutrientes para os músculos, o que é essencial para o atleta durante o jogo.\nO composto químico liberado no corpo dos atletas, mencionado no texto, é classificado corretamente como um",
+    "imagens": [],
+    "alternativas": [
+      "A) hidrácido.",
+      "B) hidróxido.",
+      "C) óxido ácido.",
+      "D) óxido neutro.",
+      "E) sal oxigenado."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 23,
+    "pergunta": "No futebol, quando o juiz marca um pênalti ou quando um time marca um gol, moléculas como a adrenalina \ne a dopamina são produzidas pelo organismo de torcedores e atletas. Essas substâncias apresentam em comum \num conjunto específico de átomos, denominado grupo funcional. O grupo funcional é responsável por algumas \npropriedades químicas das substâncias.\nA figura ilustra as fórmulas estruturais da adrenalina e da dopamina.\n\nHO\n\nHO\n\nHO\n\nH2N\n\nHO\n\nNH\n\nDopamina\n\nCH3\nHO\n\nAdrenalina\n\nConsiderando as fórmulas estruturais, podemos afirmar corretamente que um grupo funcional comum às duas moléculas \né o grupo",
+    "imagens": [],
+    "alternativas": [
+      "A) hidroxila (–OH), ligado ao carbono saturado, característico da função álcool.",
+      "B) hidroxila (–OH), ligado ao anel aromático, característico da função fenol.",
+      "C) amídico (–CONH–), ligado ao carbono saturado, característico da função amida.",
+      "D) carboxila (–COOH), ligado ao carbono insaturado, característico da função ácido carboxílico.",
+      "E) carbonila (–CO–), ligado ao carbono insaturado, característico da função cetona."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 24,
+    "pergunta": "No final dos torneios de futebol, no Brasil, os fogos de artifício são os responsáveis por um espetáculo de cores \ne de luzes vistas no céu. Os materiais que compõem os rojões são sais de diversos elementos químicos que, \nao receberem energia, emitem luz de diferentes cores. Cada cor observada no espetáculo é produzida por compostos \ndistintos, sendo que os rojões são disparados em diferentes regiões do céu, não ocorrendo mistura entre as cores. \nO quadro relaciona compostos químicos com as cores fornecidas nos fogos de artifício.\n\nSais\nCor\n\nNaCl\nAmarela\n\nCuCl2\nVerde\n\nKNO3\nLilás\n\nSrCl2\nVermelho\n\nCa(NO3) 2\nLaranja\n\nConsidere que o time campeão da última copa do mundo tenha, em sua bandeira, as cores lilás e verde. \nPara homenagear o time campeão, suponha que os organizadores da competição promovam um espetáculo com fogos \nde artifício que, ao serem disparados, produzam as cores correspondentes à bandeira do time campeão.\n\nDesse modo, os sais que estarão na composição dos fogos de artifício serão, respectivamente,",
+    "imagens": [],
+    "alternativas": [
+      "A) cloreto de sódio e cloreto de cobalto(II).",
+      "B) nitrato de potássio e cloreto de cobre(II).",
+      "C) cloreto de estrôncio e nitrato de cálcio.",
+      "D) cloreto de sódio e cloreto de estrôncio.",
+      "E) nitreto de potássio e cloreto de cobre(II)."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 25,
+    "pergunta": "As bebidas isotônicas, usadas pelos atletas para reidratação, contêm, aproximadamente, a mesma concentração \nde íons sódio, potássio e cloreto que o sangue humano. Suponha que um jogador de futebol, durante o intervalo \nde uma partida, tenha ingerido 0,042 g de íons sódio, contidos em uma dose de bebida isotônica. \nAssinale a alternativa que contém o valor correto do volume, em mL, da dose de bebida isotônica ingerida \npelo atleta.\n\nDados: Concentração de íons sódio no sangue = 140 mg/L\n\nConcentração =\nmassa do soluto\nvolume da solução",
+    "imagens": [],
+    "alternativas": [
+      "A) 100",
+      "B) 200",
+      "C) 300",
+      "D) 400",
+      "E) 500"
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 26,
+    "pergunta": "O futebol começou a se popularizar no final do século XIX, ocasionando o surgimento dos primeiros uniformes \nconfeccionados de tecidos de algodão. No século XX, os tecidos de algodão passaram a ser substituídos por materiais \nsintéticos, mais leves, resistentes e de secagem rápida (Dry fit), proporcionando inclusive maior conforto ao atleta. \nO quadro contém algumas características de dois materiais usados na confecção de uniformes. No quadro, \na polaridade e a absorção de água de cada tecido, características que podem ser alta ou baixa, estão representadas \npor (I), (II), (III) e (IV).\n\nCaracterística / Tecido \nAlgodão\nDry fit\n\nFórmula \nestrutural\n\nPolaridade\n(I)\n(II)\n\nAbsorção \nde água\n(III)\n(IV)\n\nSuor\nretém\nespalha\n\nAssinale a alternativa que corresponde corretamente às características (I), (II), (III) e (IV).",
+    "imagens": [],
+    "alternativas": [
+      "A) (I) alta; (II) alta; (III) baixa; (IV) baixa.",
+      "B) (I) alta; (II) baixa; (III) alta;   (IV) baixa.",
+      "C) (I) baixa; (II) alta; (III) baixa; (IV) alta.",
+      "D) (I) baixa; (II) baixa; (III) alta; (IV) alta.",
+      "E) (I) alta; (II) alta; (III) alta;   (IV) baixa."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Química"
+  },
+  {
+    "id": 27,
+    "pergunta": "A primeira parada técnica para hidratação na história das Copas do Mundo masculinas da FIFA ocorreu durante \na Copa do Mundo de 2014, no jogo entre Holanda e México. \nNo momento da partida, em Fortaleza, a temperatura estava em torno de 32 \n\noC e a umidade relativa do ar estava \npróxima de 70%. Essas condições foram determinantes para a ocorrência dessas pausas durante os dois tempos \ndo jogo. \nDo ponto de vista fisiológico, sabe-se que o corpo humano regula sua temperatura principalmente por meio da sudorese. \n\nNo entanto, em ambientes úmidos, esse mecanismo pode se tornar menos eficiente, pois",
+    "imagens": [],
+    "alternativas": [
+      "A) a alta umidade relativa do ar promove a desnaturação de diversas enzimas responsáveis pela sudorese, dificultando a redução da temperatura corporal.",
+      "B) o calor específico da água diminui em ambientes úmidos, reduzindo a capacidade de absorção de energia do suor.",
+      "C) a elevada pressão parcial de vapor de água no ar dificulta a evaporação do suor, reduzindo a perda de calor da pele.",
+      "D) a pressão atmosférica aumenta com a diminuição da umidade, impedindo a perda de calor do corpo para o ambiente.",
+      "E) o suor passa diretamente do estado sólido para o gasoso, sem absorver energia, reduzindo o resfriamento corporal."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 28,
+    "pergunta": "Zayu™ the Jaguar\nZayu the Jaguar, from the jungles of southern Mexico, embodies the rich heritage and vibrant spirit \nof the country. With a name inspired by unity, strength and joy, Zayu transforms on the pitch as a striker, \nshowcasing exceptional ingenuity and agility that intimidates defenders. Off the pitch, Zayu embraces \nMexican culture through dance, food and tradition, uniting people across borders with passion and pride. \nMore than an athlete, Zayu is a symbol of cultural celebration and connection, carrying the heart of Mexico \nwith pride.\n\n\n\nZayu é um dos mascotes da Copa do Mundo de Futebol 2026. Representando o México, o jaguar Zayu retrata",
+    "imagens": [
+      "imagens/pag11_q28_img1.png"
+    ],
+    "alternativas": [
+      "A) ingenuidade, pureza e paixão.",
+      "B) força, agilidade e criatividade.",
+      "C) vibração, inspiração e inocência.",
+      "D) união, regionalismo e exceção.",
+      "E) espírito, religião e fraternidade."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 29,
+    "pergunta": "A palavra \"like\", na sentença “You play like a girl”, indica",
+    "imagens": [],
+    "alternativas": [
+      "A) afeto.",
+      "B) oposição.",
+      "C) comparação.",
+      "D) exemplificação.",
+      "E) distanciamento."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 30,
+    "pergunta": "A partir da charge, conclui-se corretamente que",
+    "imagens": [],
+    "alternativas": [
+      "A) as mulheres não são tão boas jogadoras quanto os homens.",
+      "B) a fala do personagem na torcida insulta as jogadoras de futebol.",
+      "C) a torcida hostiliza os jogadores de futebol estadunidenses, comparando-os a crianças.",
+      "D) a torcida mostra-se orgulhosa pela maneira como jogadoras de futebol estadunidenses jogam.",
+      "E) o cartaz na torcida ridiculariza as jogadoras de futebol estadunidenses."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 31,
+    "pergunta": "De acordo com o texto, a Sociologia do Futebol estuda",
+    "imagens": [],
+    "alternativas": [
+      "A) o poder envolvido no esporte e as desigualdades geradas por ele.",
+      "B) os desequilíbrios sociais e os fenômenos globalizados.",
+      "C) a influência do jogo na violência e nos valores sociais.",
+      "D) as relações sociais e culturais em torno do futebol.",
+      "E) as relações políticas na classificação esportiva."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Inglês\nQuestão\nAlternativa\nDisciplina"
+  },
+  {
+    "id": 32,
+    "pergunta": "As palavras em destaque, “it” e “its”, referem-se, respectivamente, a",
+    "imagens": [],
+    "alternativas": [
+      "A) “football” e “football”.",
+      "B) “a global phenomenon” e “power dynamics”.",
+      "C) “institutional structures” e “social identities”.",
+      "D) “cultural significance” e “community relations”.",
+      "E) “the Sociology of Football” e “football”."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Inglês"
+  },
+  {
+    "id": 33,
+    "pergunta": "The English Game Review\n\nHannah Parker\nPeriod dramas aren’t to everyone’s taste, and the story of class wars in Britain has been told over and over again. \nSometimes, it’s been told extremely well, but often the theme can be repetitive, insensitive and glamorised. Perhaps \nthe same could be said about the FA Cup — some love it, but nowadays more seem to dislike it. Bringing the two \ntogether could be a disaster.\nThe new drama series about the early days of the FA Cup in the late 1800’s however, is an example of this theme \nbeing done well. The show is a perfect example of telling a class war story in a sensitive and realistic manner.\n\n\nGlossário: \nFA – Football Association\n\nA resenha a respeito da série “The English Game” é",
+    "imagens": [],
+    "alternativas": [
+      "A) positiva e dá destaque à sensibilidade na abordagem do tema a respeito da luta de classes.",
+      "B) positiva e mostra romantismo em tempos dramáticos de uma forma bastante glamourizada.",
+      "C) negativa, pois são poucas as pessoas que se interessam por acompanhar histórias de época.",
+      "D) negativa, pois essa série é repetitiva, insensível e excessivamente romantizada.",
+      "E) negativa, pois a combinação dos temas futebol e drama de época mostrou-se desastrosa."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 34,
+    "pergunta": "Ao jogar em altitude elevada, como em alguns estádios na Bolívia e no Peru, os jogadores reclamam de falta de ar \ne os comentaristas falam que a bola chutada é “mais rápida”, dificultando o acerto dos passes. \nCom base nessas informações, é correto afirmar que essa fala dos comentaristas ocorre porque",
+    "imagens": [],
+    "alternativas": [
+      "A) os jogadores são mais rápidos devido a alta altitude proporcionar mais oxigênio.",
+      "B) os atletas têm maior potência nas pernas pelo ar ser mais rarefeito.",
+      "C) a resistência do ar é menor por este ser mais rarefeito.",
+      "D) o ar comprimido da bola a torna mais leve que o ar.",
+      "E) a bola possui menor volume em alta altitude."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 35,
+    "pergunta": "Em janeiro de 2021, o goleiro inglês Tom King, então do Newport County, marcou um gol histórico que entrou \npara o Guinness World Records. Ele bateu um tiro de meta, fazendo a bola traçar uma trajetória parabólica e percorrer \naproximadamente 96 m na horizontal em cerca de 6 s.\nConsiderando a situação ideal e desprezando a resistência do ar, podemos afirmar, em relação à bola, que",
+    "imagens": [],
+    "alternativas": [
+      "A) sua velocidade horizontal foi 576 m/s no final da trajetória.",
+      "B) sua velocidade vertical foi 16 m/s no ponto mais alto da trajetória.",
+      "C) sua velocidade oblíqua foi nula quando estava bem próxima de atingir o chão.",
+      "D) suas velocidades vertical e horizontal foram de 16 m/s no ponto mais alto da trajetória.",
+      "E) sua velocidade vertical foi nula e a horizontal foi 16 m/s no ponto mais alto da trajetória."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 36,
+    "pergunta": "Um desses sistema é o GoalRef, que se baseia em indução eletromagnética. Para funcionar, ao redor da estrutura \nde cada baliza (conjunto traves e travessão), são instalados cabos de cobre que funcionam como antenas de baixa \nfrequência. A bola, por sua vez, é fabricada com três bobinas de cobre finas, posicionadas de forma adequada. \nQuando a bola entra na zona do campo magnético gerado pela baliza, o fluxo magnético (ϕ) que atravessa essas bobinas \nvaria. Essa variação (Δ) no fluxo magnético, num determinado intervalo de tempo (t ), induz uma força eletromotriz (ɛ). \nQuanto maior a variação do fluxo magnético no tempo ou menor o tempo de interação com o campo, maior será a força \neletromotriz induzida. Assim, quando a bola cruza completamente a linha, gera uma “perturbação” no campo magnético \nda baliza e o sistema envia o sinal de rádio criptografado aos oficiais da partida.\n\nCom base nessa descrição, assinale a alternativa que representa corretamente a equação física envolvida nesse processo.\n\nɛ = Δ\n\nϕ",
+    "imagens": [],
+    "alternativas": [
+      "A) Δt t = Δ ɛ",
+      "B) Δϕ",
+      "C) = Δ Δϕ t Δɛ",
+      "D) = Δ ɛ t Δϕ",
+      "E) ϕ = Δ ɛ Δt"
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 37,
+    "pergunta": "O outro sistema, Hawk-Eye, utiliza 14 câmeras de alta resolução posicionadas ao redor do estádio (7 para cada baliza). \nCada câmera filma o movimento da bola a uma frequência de 500 quadros por segundo, e, depois, um sistema de visão \ncomputacional determina a velocidade e a posição da bola. Comprovado o cruzamento da linha, o sistema envia um \nsinal de rádio criptografado aos oficiais da partida.\nCom base nessa descrição, é correto afirmar que o período, em segundos, entre cada disparo de cada câmera é de",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 38,
+    "pergunta": "Pelas regras do futebol, a bola oficial deve estar calibrada com uma pressão entre 0,60 atm e 1,10 atm ao nível do mar. \nEm um jogo numa cidade litorânea, os oficiais da partida calibraram uma bola a 0,90 atm a uma temperatura de 27 °C \nDurante uma parada técnica, a bola ficou exposta ao Sol e sua temperatura subiu para 57 °C, porém o seu volume \npermaneceu constante. Antes de reiniciar a partida, o árbitro pediu nova checagem da calibração.\n\n.\nP1 V1\n\n.\n=\nTK = TC + 273\n\nLembrando que: e\nPO VO\n\nTO\n\nT1\n\nAdmitindo que o ar no interior da bola se comporte como gás ideal, podemos afirmar corretamente que a bola",
+    "imagens": [],
+    "alternativas": [
+      "A) foi mantida, pois a pressão abaixou para aproximadamente 0,80 atm.",
+      "B) foi trocada, pois a pressão se manteve em aproximadamente 0,90 atm.",
+      "C) foi mantida, pois a pressão chegou a aproximadamente 1,00 atm.",
+      "D) foi trocada, pois a pressão aumentou para aproximadamente 1,20 atm.",
+      "E) foi mantida, pois a pressão alcançou aproximadamente 1,90 atm."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Física"
+  },
+  {
+    "id": 39,
+    "pergunta": "Speed, angle and confidence: science behind Chloe Kelly’s powerful penalty\n\nLioness’s penalty against Nigeria makes Women’s World Cup record and beats fastest strike of Premier League last \nseason. (…) According to data from the official match ball, the shot on Monday reached 110.79 km/h ( ≈ 31 m/s).\n\nMultiple factors contribute to the power of a kick, for example, the speed of the ball is determined by the speed \nof the kicking foot when it makes contact with the ball and how efficient the foot-ball collision is in transferring the \nenergy. Also, the harder the collision, the faster the ball speed afterwards.\n\n Adaptado.\n\nO texto destaca que a técnica empregada pela atleta determina “quão eficiente é a colisão de pé-bola na transferência \nde energia\", em outras palavras, o trabalho executado pela força aplicada pelo pé na bola.\nConsiderando a massa da bola aproximadamente 0,42 kg, podemos afirmar corretamente que o valor aproximado \ndo trabalho da força resultante aplicada por Chloe Kelly, em joules, é de",
+    "imagens": [],
+    "alternativas": [
+      "A) 2 580.",
+      "B) 202.",
+      "C) 23.",
+      "D) 13.",
+      "E) 7."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 40,
+    "pergunta": "O hábito de se divertir usando bolas feitas à mão existe há pelo menos 4,5 mil anos: no Egito Antigo, as mais \ncomuns eram de linho, mas, como mostra o túmulo de uma criança egípcia de 2,5 mil anos a.C., também havia \nversões feitas com trapos e lã. Na China, foram descobertas bolas feitas de couro e de pele de carneiro, com idade \nestimada entre 2,9 mil e 3,2 mil anos. Sendo atividades coletivas, os jogos com bola exigem o desenvolvimento \nde regras compartilhadas, a capacidade de antecipar movimentos alheios e a cooperação entre os membros \nde um grupo, habilidades que também foram úteis na caça e na defesa de territórios.\n\n Adaptado.\n\nA partir das informações apresentadas no texto, conclui-se corretamente que os jogos de bola",
+    "imagens": [],
+    "alternativas": [
+      "A) substituíram as atividades de caça e de coleta, permitindo que os grupos se fixassem em aldeias permanentes.",
+      "B) surgiram após a invenção da escrita, pois as regras precisavam ser registradas para serem transmitidas.",
+      "C) eram praticados individualmente, sem interação ou cooperação entre os membros do grupo.",
+      "D) contribuíram para o desenvolvimento de habilidades sociais e cognitivas úteis para a vida em sociedade.",
+      "E) eram praticados por adultos, com bolas confeccionadas pelas crianças a partir de diferentes matérias-primas."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 41,
+    "pergunta": "Os fundadores da Associação de Futebol Inglesa consideravam o epískyros, um jogo com bola praticado na Grécia Antiga, \ncomo um precursor do futebol moderno. O epískyros era um jogo coletivo que exigia agilidade, precisão e resistência. \nEra apreciado por melhorar o condicionamento físico e fortalecer o espírito de equipe, mas não era considerado adequado \npara competições atléticas sérias. Inspirados pelo jogo grego, os romanos desenvolveram o harpastum, descrito como \num exercício violento, com imobilizações no pescoço, golpes de luta livre, empurrões e puxões. A versão mais enérgica \ndo harpastum era considerada benéfica para o treinamento militar por promover o condicionamento físico e mental, \nexercitar o corpo todo e poder ser praticado em diferentes intensidades.\n\n Traduzido e adaptado.\n\nComparando as informações presentes no texto, é correto afirmar que a diferença entre o epískyros gregos \ne o harpastum romano revela",
+    "imagens": [],
+    "alternativas": [
+      "A) o desprezo dos romanos pela cultura grega, o que os levou a criar uma modalidade inédita, sem semelhança com o epískyros.",
+      "B) que o epískyros preparava os gregos para guerras, enquanto o harpastum era um espetáculo público sem função militar.",
+      "C) a inferioridade cultural dos gregos, que não atribuíam utilidade aos seus jogos, ao contrário dos romanos, que buscavam eficiência militar.",
+      "D) que o epískyros era um jogo exclusivamente feminino, enquanto o harpastum era praticado apenas por homens que não podiam mais servir ao exército.",
+      "E) a distinção entre os gregos, que valorizavam movimento e cooperação, e os romanos, que enfatizavam utilidade militar e competição violenta."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 42,
+    "pergunta": "O jogo de bola (pok-ta-pok entre maias, ullamaliztli entre astecas) foi um esporte ritualístico das antigas civilizações da \nMesoamérica. Bolas de borracha datadas de 1600–1400 a.C. foram encontradas junto a oferendas religiosas, indicando \nconotações rituais. O jogo era disputado em campos em formato de “I”, com uma bola de borracha de 3 a 4 kg, sendo \nproibido usar mãos e pés. Após as partidas, sacrifícios humanos eram comuns: crônicas astecas indicam que os vencedores \neram sacrificados em honra ao Sol. Para os astecas, o jogo representava a batalha entre as forças noturnas (Lua e estrelas) \ne o Sol, personificado pelo deus Huitzilopochtli, e os sacrifícios tinham a função de manter o Sol iluminando a Terra. \nNa fundação de uma cidade, os astecas primeiro construíam o templo ao deus e, logo em seguida, o campo do jogo de bola.\n\n Adaptado.\n\nA partir do texto, é correto afirmar que o caráter sagrado dessa prática, para os astecas, se evidenciava pelo fato de que",
+    "imagens": [],
+    "alternativas": [
+      "A) as bolas de borracha eram oferendas religiosas, e os campos tinham formato de “I” para imitar a forma dos templos.",
+      "B) os sacrifícios humanos visavam manter o Sol iluminando a Terra, e o jogo representava a batalha entre o Sol e as forças noturnas.",
+      "C) os campos eram construídos antes do templo na fundação das cidades, e os perdedores eram sacrificados como oferenda à Lua.",
+      "D) o jogo representava a batalha entre o Sol e as forças noturnas, e os perdedores eram sacrificados para o Sol descansar durante a noite.",
+      "E) as bolas pesavam de 3 a 4 kg e eram tocadas com quadris, braços e pernas para imitar os movimentos dos deuses durante a criação do mundo."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 43,
+    "pergunta": "Reinaldo, ídolo do Atlético Mineiro, também se tornou símbolo de resistência em um momento político da história \ndo Brasil. Quando ele fez o primeiro gol da seleção brasileira contra a Suécia, na Copa do Mundo de 1978, \ncomemorou com o punho cerrado, e depois disso quase não jogou mais pela seleção. Ele afirmou que foi retaliado \npelo técnico Cláudio Coutinho, capitão do Exército, que recebia ordens diretas do regime para não o escalar.\n\n Adaptado.\n\nAssinale a alternativa que identifica, corretamente, o regime ao qual o relato se refere.",
+    "imagens": [],
+    "alternativas": [
+      "A) Era Vargas",
+      "B) Pacto Colonial",
+      "C) Ditadura civil-militar",
+      "D) República Velha",
+      "E) Primeiro Reinado"
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 44,
+    "pergunta": "Antes da viagem da seleção brasileira para a França a fim de disputar a Copa \ndo Mundo de 1938, Getúlio Vargas recebeu os atletas, destacou a importância \ndo título para o futuro do país e deu uma declaração prometendo “casa própria \npara os craques”. Durante o torneio, Vargas associou o desempenho da seleção \nà grandeza do regime do Estado Novo e o sociólogo Gilberto Freyre, à ideia \nde “democracia racial”. Entretanto, jogadores negros e de origem pobre, como \nLeônidas da Silva, enfrentaram racismo explícito na imprensa. Após o que \nfoi considerado uma falha da arbitragem e a consequente derrota brasileira \npor 2 a 1 na final contra a Itália, os craques foram recepcionados como heróis \nem Recife, Salvador e Rio de Janeiro e, mesmo assim, muitos dos jogadores \nnegros retornaram ao anonimato e a subempregos.\n\n Adaptado.\n\nSegundo o texto,",
+    "imagens": [],
+    "alternativas": [
+      "A) a ideia de “democracia racial” correspondia à realidade brasileira da época, pois jogadores negros eram tratados como heróis nacionais.",
+      "B) a derrota na Copa de 1938 provocou uma crise que levou o presidente Vargas a abandonar o incentivo ao esporte.",
+      "C) a derrota na final de 1938 prejudicou a imagem internacional do Brasil e levou à proibição do futebol no país.",
+      "D) a propaganda política do Estado Novo contrastava com o racismo e com a situação social de jogadores negros.",
+      "E) Vargas ignorou a Copa do Mundo de 1938 e concentrou os esforços de propaganda em outros eventos, como as corridas de automóvel."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "História"
+  },
+  {
+    "id": 45,
+    "pergunta": "Jogadores de origem africana nascidos ou formados nas antigas metrópoles \neuropeias vivem um paradoxo: defendem seleções africanas por questões \nfamiliares ou identitárias, mas o dinheiro de suas transferências não beneficia \nos clubes do continente. Segundo relatório da FIFA de 2021, jogadores africanos \nsão a segunda mão de obra estrangeira mais procurada por clubes europeus e \ntambém a que custa menos. Uma exceção é o egípcio Mohamed Salah, formado \nno El Mokawloon, que rendeu US$ 5 milhões ao seu time de origem, o mesmo \nvalor que todos os clubes do Egito arrecadaram juntos em 2021.\n\n Adaptado.\n\nConsiderando o texto e os conceitos de globalização e divisão internacional do trabalho, assinale a alternativa correta.",
+    "imagens": [],
+    "alternativas": [
+      "A) O movimento de jogadores entre países reproduz padrões históricos semelhantes aos das migrações em outras áreas da economia global.",
+      "B) A migração de jogadores reverteu a lógica histórica da divisão internacional do trabalho, com atletas europeus indo, em maior número, à África.",
+      "C) A migração de jogadores ocorre entre países ricos do hemisfério Norte, não havendo registro histórico de atletas africanos atuando na Europa.",
+      "D) A migração de jogadores não encontra paralelos com outras formas de migração, pois o futebol não se insere no capitalismo globalizado.",
+      "E) Os países africanos proíbem a saída de seus jogadores, retendo os atletas em ligas nacionais para fortalecer o futebol local."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 46,
+    "pergunta": "Considere a imagem, gerada por IA, baseada na bola Trionda e um ponto P no centro dessa imagem.\n\nP\n\nCaso se efetue, na imagem, uma rotação de 90° no sentido horário em torno do ponto P e, em seguida, retirar-se \no ponto P da imagem gerada, qual imagem será obtida?",
+    "imagens": [
+      "imagens/pag17_q46_img1.png"
+    ],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 47,
+    "pergunta": "O grito “OLÉ!”, que embala partidas de futebol, chegou às torcidas com Mané Garrincha em um \namistoso entre Botafogo e River Plate no México, em 1958. Contudo sua consagração veio em 1985, \ncom a música “Anderlecht Champion”!\nO refrão na versão original diz “ALLEZ, ALLEZ, ALLEZ!” (vamos lá, em francês).\n\n Adaptado.\n\nConsiderando que o termo em negrito possa ser repetido sucessivamente, sem espaços e indefinidamente, \nentão o símbolo que ocupa a posição de número 1985 nessa sequência é",
+    "imagens": [],
+    "alternativas": [
+      "A) ...",
+      "B) ...",
+      "C) ...",
+      "D) ...",
+      "E) ..."
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 48,
+    "pergunta": "Se SURFE se relaciona com PRANCHA, então FUTEBOL se relaciona com",
+    "imagens": [],
+    "alternativas": [
+      "A) ÁREA.",
+      "B) BOLA.",
+      "C) CAMPO.",
+      "D) DRIBLE.",
+      "E) ESTÁDIO."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 49,
+    "pergunta": "As regras do futebol de campo são as mesmas em todo o planeta. Entre elas, temos:\n\n1. as duas equipes devem usar cores que as distingam uma da outra e da equipe de arbitragem;\n2. cada goleiro deve usar cores que os distingam dos outros jogadores e da equipe de arbitragem;\n3. se as camisetas dos dois goleiros forem da mesma cor e nenhum deles tiver outra camiseta, o árbitro \npermitirá que o jogo seja disputado.\n4. as camisas interiores (também conhecidas como segunda pele) devem ter uma única cor, que será a \nmesma que a cor principal da manga da camiseta; e\n5. os jogadores de uma mesma equipe devem usar calções interiores de mesma cor.\n\n Adaptado.\n\nConsidere que, em uma partida oficial entre um Time A e um Time B, percebe-se que\n • o Time A usa camiseta azul com mangas azuis;\n • o Time B usa camiseta verde com mangas brancas;\n • a arbitragem usa preto;\n • ambos os goleiros usam amarelo e não possuem outro uniforme;\n • um jogador do Time B usa camisa interior verde;\n • dois jogadores do Time A usam calções interiores, um usa azul e outro usa branco.\n\nCom base nas regras apresentadas, quantas infrações foram cometidas na situação descrita?",
+    "imagens": [],
+    "alternativas": [
+      "A) Nenhuma",
+      "B) Uma",
+      "C) Duas",
+      "D) Três",
+      "E) Quatro"
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 50,
+    "pergunta": "Andrea, Elias e Iara são torcedores de um mesmo time de futebol, mas, como são supersticiosos, seguem certas \nregras quando se trata de vestir a camisa de seu time para ir torcer:\n • Ou Elias ou Iara devem usar a camisa do time;\n • Andrea usa a camisa do time se, e somente se, Elias usar; e\n • Se Iara usar a camisa do time, então Andrea também usa.\n\nQuando os três forem torcer pelo seu time, de acordo com as regras expostas, conclui-se corretamente que",
+    "imagens": [],
+    "alternativas": [
+      "A) Iara nunca usa a camisa do time; Andrea e Elias sempre a usam.",
+      "B) Elias nunca usa a camisa do time; Andrea e Iara sempre a usam.",
+      "C) Andrea sempre usa a camisa do time; Elias e Iara nunca a usam.",
+      "D) Iara sempre usa a camisa do time; Andrea e Elias nunca a usam.",
+      "E) Elias sempre usa a camisa do time; Andrea e Iara nunca a usam."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Raciocínio Lógico"
+  },
+  {
+    "id": 51,
+    "pergunta": "No mapa, estão indicados alguns dos estádios da Copa do Mundo de 2026.\n\nN\n\n Pontos cardeais\n N = North\n E = East\n S = South\n W = West\n Pontos colaterais\n NE = Northeast\n SE = Southeast\n SW = Southwest\n NW = Northwest\n\nPontos subcolaterais\nNNE = North-northeast\nENE = East-northeast\nESE = East-southeast\nSSE = South-southeast\nSSW = South-southwest\nWSW = West-southwest\nWNW = West-northwest\nNNW = North-northwest\n\nNW\n\nNE\n\nNNW\n\nNNE\n\nWNW\n\nENE\n\nE\nW\n\nESE\n\nWSW\n\nSSE\nSSW\n\nSW\n\nSE\nS\n\nSabendo que, durante esse evento esportivo, o time do Brasil deve jogar contra \n • o Marrocos no dia 13 de junho, no MetLife Stadium; \n • o Haiti no dia 19 de junho, no Lincoln Financial Field; e \n • a Escócia no dia 24 de junho, no Hard Rock Stadium, em Miami.\n\nEntão, na ordem dos eventos descritos, os deslocamentos entre os estádios onde ocorrerão os jogos do time do Brasil \ndevem se dar nos sentidos",
+    "imagens": [
+      "imagens/pag19_q51_img1.png"
+    ],
+    "alternativas": [
+      "A) Norte e Norte-noroeste.",
+      "B) Noroeste e Norte-nordeste.",
+      "C) Sul e Sul-sudeste.",
+      "D) Sul-sudeste e Leste-sudeste.",
+      "E) Sudoeste e Sul-sudoeste."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  },
+  {
+    "id": 52,
+    "pergunta": "Os termos destacados podem ser substituídos, correta e respectivamente, por",
+    "imagens": [],
+    "alternativas": [
+      "A) calmamente, limita-se a, propositalmente, decerto.",
+      "B) brevemente, combate, de propósito, seguramente.",
+      "C) paulatinamente, submete-se a, repentinamente, quiçá.",
+      "D) tardiamente, excede, involuntariamente, seguramente.",
+      "E) progressivamente, supera, intencionalmente, talvez."
+    ],
+    "resposta_correta": 4,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 53,
+    "pergunta": "De acordo com o texto, o “futebolês”",
+    "imagens": [],
+    "alternativas": [
+      "A) dialoga com diferentes áreas da sociedade e incorpora-se à linguagem cotidiana.",
+      "B) influenciou a elite intelectual da sociedade mundial e, por isso, foi dicionarizado.",
+      "C) representa um dialeto específico do mundo do futebol restrito a profissionais da área.",
+      "D) limita-se a palavras e expressões que remetem a “bola”, principal símbolo do esporte.",
+      "E) origina-se da linguagem culinária e do jogo do bicho, alcançando os campos de futebol."
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 54,
+    "pergunta": "Assinale a alternativa cujo provérbio dialoga com o sentido da expressão “bola pra frente”.",
+    "imagens": [],
+    "alternativas": [
+      "A) A cavalo dado não se olham os dentes.",
+      "B) Antes só do que mal acompanhado.",
+      "C) Águas passadas não movem moinhos.",
+      "D) Dai a César o que é de César.",
+      "E) Quem semeia vento colhe tempestade."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 55,
+    "pergunta": "Analise a charge.\n\nNa charge, o cartão apresentado é vermelho. \n\nSobre a linguagem verbal e não verbal utilizada na construção \nda charge, é correto afirmar que",
+    "imagens": [
+      "imagens/pag21_q55_img1.jpeg"
+    ],
+    "alternativas": [
+      "A) o cartão vermelho expressa a recusa em aceitar a reprodução de preconceitos sociais dentro do campo.",
+      "B) a representação da mulher, embora em posição de poder, é marcada pela invisibilização de seu papel.",
+      "C) a bola parada representa a necessidade de rever as regras do jogo para garantir igualdade entre homens e mulheres.",
+      "D) o taco, segurado pelo jogador, ameniza a atitude preconceituosa do atleta ao associá-la a um traço comportamental primitivo.",
+      "E) o saco, que cobre a identidade do agressor, assim como a ausência do rosto da árbitra, igualam vítima e criminoso na imagem.   Original colorido. Leia o poema “O Anjo das Pernas Tortas”, de Vinicius de Moraes,  para responder às questões 56 e 57. A um passe de Didi, Garrincha avança  Colado o couro aos pés, o olhar atento  Dribla um, dribla dois, depois descansa  Como a medir o lance do momento.  Vem-lhe o pressentimento; ele se lança  Mais rápido que o próprio pensamento  Dribla mais um, mais dois; a bola trança  Feliz, entre seus pés — um pé de vento! Num só transporte, a multidão contrita  Em ato de morte se levanta e grita  Seu uníssono canto de esperança.  Garrincha, o anjo, escuta e atende: — Goooool!  É pura imagem: um G que chuta um o  Dentro da meta, um l. É pura dança!"
+    ],
+    "resposta_correta": 0,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 56,
+    "pergunta": "Após a leitura atenta do poema, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) o termo “couro”, na primeira estrofe, representa a resistência do jogador durante a difícil partida.",
+      "B) a expressão “um pé de vento”, na segunda estrofe, expressa a perda da bola pelo jogador rival.",
+      "C) “a multidão contrita em ato de morte”, na terceira estrofe, constrói a imagem de tensão dos torcedores.",
+      "D) “anjo” e “G” representam, na quarta estrofe, o jogador Garrincha e a bola jogada ao gol respectivamente.",
+      "E) as expressões “pura imagem” e “pura dança”, na quarta estrofe, retratam o futebol como uma arte impopular."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 57,
+    "pergunta": "Os verbos, no poema, estão conjugados",
+    "imagens": [],
+    "alternativas": [
+      "A) no presente contínuo para dar a sensação de ações que se desenrolam lentamente.",
+      "B) no presente para aproximar as ações do leitor, semelhante a uma narração esportiva.",
+      "C) no passado, para indicar que os feitos do jogador realizaram-se rapidamente no jogo.",
+      "D) no passado distante, para marcar a importância histórica do jogador referido no texto.",
+      "E) no presente atemporal, para expressar ações realizáveis a qualquer momento por todos."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 58,
+    "pergunta": "Ao se compararem os dois textos, conclui-se corretamente que",
+    "imagens": [],
+    "alternativas": [
+      "A) o texto II, ao colocar a expressão “por falas sexistas” no final da manchete, enfatiza a ação do jogador.",
+      "B) a identificação do atleta, em I e II, ocorre na última posição da linha fina para disfarçar o agente das falas.",
+      "C) o texto I destaca o preconceito cometido pelo jogador, enquanto o II destaca o jogador punido.",
+      "D) o termo “misóginas”, em I, ameniza o crime que é, em II, caracterizado corretamente como “sexista”.",
+      "E) o nome dos times, em I e II, serve ao propósito de contrapor a qualidade técnica dos jogadores às falhas da arbitragem."
+    ],
+    "resposta_correta": 2,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 59,
+    "pergunta": "Assinale a alternativa que apresenta a reescrita correta de uma das manchetes.",
+    "imagens": [],
+    "alternativas": [
+      "A) Eliminação do Bragantino é marcada por declarações misóginas da árbitra contra zagueiro.",
+      "B) Devido a falas sexistas contra a arbitragem, jogador do Bragantino é suspenso por 12 jogos.",
+      "C) Arbitragem suspende 12 jogos do Bragantino por falas sexistas de seu jogador.",
+      "D) Árbitra elimina Bragantino por declarações de zagueiro contra a misoginia.",
+      "E) Zagueiro elimina Bragantino por se declarar misógino para a arbitragem."
+    ],
+    "resposta_correta": 1,
+    "explicacao": null,
+    "materia": "Português"
+  },
+  {
+    "id": 60,
+    "pergunta": "O Mal da Montanha é causado pela subida rápida a grandes altitudes, onde a pressão atmosférica é menor e, por isso, \nmenos oxigênio passa dos pulmões para o sangue. Essa redução de oxigênio no organismo pode levar ao surgimento \nde sintomas como dor de cabeça, tontura, náusea, cansaço e falta de ar. Esse é um problema que vários times \nenfrentam quando jogam em cidades que ficam em altas altitudes. \nImagine que, na final de um campeonato de futebol, o Always Ready, time da Bolívia, sai de El Alto para enfrentar \no São Paulo FC, da cidade de São Paulo. A cidade de El Alto fica a 4150 metros de altitude em relação ao nível do mar, \nenquanto a cidade de São Paulo se localiza a 760 metros. Os dois se enfrentarão no Estádio Daniel Alcides Carrión, \nem Cerro de Pasco, no Peru, que fica a 4338 metros de altitude.\nDiante desse cenário, é correto afirmar que",
+    "imagens": [],
+    "alternativas": [
+      "A) o time do São Paulo não sentirá os efeitos do Mal da Montanha, pois está, originalmente, mais próximo ao nível do mar.",
+      "B) o time do Always Ready sentirá menos os efeitos do Mal da Montanha se passar alguns dias, antes do jogo, na cidade de São Paulo.",
+      "C) os times do São Paulo e do Always Ready sentirão os efeitos do Mal da Montanha igualmente por terem atletas de alto desempenho.",
+      "D) o time do São Paulo tende a sentir mais os efeitos do Mal da Montanha devido à maior diferença de altitude entre sua cidade e o local do jogo.",
+      "E) o time do Always Ready tende a sentir mais os efeitos do Mal da Montanha, pois seus jogadores estão aclimatados"
+    ],
+    "resposta_correta": 3,
+    "explicacao": null,
+    "materia": "Multidisciplinar"
+  }
+]
